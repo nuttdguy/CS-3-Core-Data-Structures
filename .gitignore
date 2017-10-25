@@ -132,5 +132,7 @@ venv.bak/
 .mypy_cache/
 
 scratch_pad.py
+.idea
+.vscode
 
 # End of https://www.gitignore.io/api/macos,python
