@@ -131,4 +131,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+scratch_pad.py
+
 # End of https://www.gitignore.io/api/macos,python
