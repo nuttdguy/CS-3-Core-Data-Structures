@@ -44,7 +44,7 @@ def encode(number, base):
     # Handle unsigned numbers only for now
     assert number >= 0, 'number is negative: {}'.format(number)
     # TODO: Encode number in binary (base 2) [1010 1010 1010] (12)
-    if base is 2:
+    def base_2(number):
         binary = 0
         power = 0
         while number > 0:
@@ -54,10 +54,25 @@ def encode(number, base):
             number = round(number / 2)
             power += 1
         return binary
-    # TODO: Encode number in hexadecimal (base 16) [9AEF 0B1C 001A 4512]
-    if base is 16:
-        hex_digits = ['A', 'B', 'C', 'D', 'E', 'F']
 
+    if base is 2:
+        base_2_result = base_2(number)
+
+    def base_16(number):
+        number_arr = number.split()
+        hexi_deci = ''
+        for i in range(len(number_arr)):
+            if number_arr[i] == 'A':
+                hexi_deci = ''
+
+
+
+    if base is 16:
+        base_16_result = base_16(number)
+
+
+    # TODO: Encode number in hexadecimal (base 16) [9AEF 0B1C 001A 4512]
+    # use above function, continue to check hexi-decimal
 
 
     # TODO: Encode number in any base (2 up to 36)  [??]
@@ -74,15 +89,16 @@ def convert(digits, base1, base2):
     assert 2 <= base1 <= 36, 'base1 is out of range: {}'.format(base1)
     assert 2 <= base2 <= 36, 'base2 is out of range: {}'.format(base2)
     # TODO: Convert digits from base 2 to base 16 (and vice versa)
-    # if digits is string.digits:
-        # BASE II IS BINARY (ENCODE) e.g. '1010 1010 1010 1011 1010 1010 1010 1011'
-    print('base1: {}  == base2: {}  == digits(): {}'.format(base1, base2, digits))
-    return decode(digits, base1)
+    # BASE II IS BINARY (ENCODE) e.g. '1010 1010 1010 1011 1010 1010 1010 1011'
+    # print('base1: {}  == base2: {}  == digits(): {}'.format(base1, base2, digits))
+    split_digits = list(digits)
+    base2 = decode(digits, base1)
     # TODO: Convert digits from base 2 to base 10 (and vice versa)
         # BASE II IS BINARY (ENCODE TO 10)
-
+    base_10 = ''
     # TODO: Convert digits from base 10 to base 16 (and vice versa)
         # BASE 10 TO BASE 16 (ENCODE FROM 2 10 16)
+    base_16 = ''
 
     # TODO: Convert digits from any base to any base (2 up to 36)
         # REVISIT AFTER ALL OTHER IMPLEMENTATIONS
@@ -90,6 +106,7 @@ def convert(digits, base1, base2):
 
 def main():
     """Read command-line arguments and convert given digits between bases."""
+    convert(101011, 2, 8)
     import sys
     args = sys.argv[1:]  # Ignore script file name
     if len(args) == 3:
