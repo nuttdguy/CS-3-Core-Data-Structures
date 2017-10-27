@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e92044ad-fd47-4863-8346-25818903f5a2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/bases.py" afterPath="$PROJECT_DIR$/source/bases.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/bases_test.py" afterPath="$PROJECT_DIR$/source/bases_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/recursion.py" afterPath="$PROJECT_DIR$/source/recursion.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,18 +17,21 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesDecodeTest_test_decode_binary.coverage" NAME="Unittests for bases_test.BasesDecodeTest.test_decode_binary Coverage Results" MODIFIED="1509053345541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1509069731560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$scratch_pad.coverage" NAME="scratch_pad Coverage Results" MODIFIED="1509051268990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$bases.coverage" NAME="bases Coverage Results" MODIFIED="1509053432483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_in_recursion_test_py.coverage" NAME="Unittests in recursion_test.py Coverage Results" MODIFIED="1509070750349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_recursion_test_RecursionTest_test_factorial_with_small_integers.coverage" NAME="Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers Coverage Results" MODIFIED="1509070449943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
   </component>
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5179114">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="bases.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/source/bases.py">
+          <file leaf-file-name="recursion.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/source/recursion.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="250">
-                  <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+                <state relative-caret-position="238">
+                  <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
                   <folding />
                 </state>
               </provider>
@@ -42,37 +44,18 @@
           <file leaf-file-name="bases.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/source/bases.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
+                <state relative-caret-position="0">
                   <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-                  <folding>
-                    <marker date="1509053411000" expanded="true" signature="872:1118" ph="..." />
-                    <marker date="1509053411000" expanded="true" signature="1198:1554" ph="..." />
-                    <marker date="1509053411000" expanded="true" signature="1364:1530" ph="..." />
-                    <marker date="1509053411000" expanded="true" signature="1561:1617" ph="..." />
-                    <marker date="1509053411000" expanded="true" signature="2181:2435" ph="..." />
-                    <marker date="1509053411000" expanded="true" signature="2250:2411" ph="..." />
-                    <marker date="1509053411000" expanded="true" signature="2462:2640" ph="..." />
-                    <marker date="1509053411000" expanded="true" signature="2568:2640" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="scratch_pad.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scratch_pad.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="bases_test.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/source/bases_test.py">
+          <file leaf-file-name="recursion_test.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/source/recursion_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+                <state relative-caret-position="559">
+                  <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
@@ -97,6 +80,8 @@
         <option value="$PROJECT_DIR$/scratch_pad.py" />
         <option value="$PROJECT_DIR$/source/bases_test.py" />
         <option value="$PROJECT_DIR$/source/bases.py" />
+        <option value="$PROJECT_DIR$/source/recursion_test.py" />
+        <option value="$PROJECT_DIR$/source/recursion.py" />
       </list>
     </option>
   </component>
@@ -107,9 +92,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2296" />
+    <option name="x" value="1908" />
     <option name="y" value="27" />
-    <option name="width" value="1909" />
+    <option name="width" value="2297" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
@@ -127,7 +112,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,13 +129,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -173,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bases">
+  <component name="RunManager" selected="Python tests.Unittests in recursion_test.py">
     <configuration name="Unittests for bases_test.BasesDecodeTest.test_decode_binary" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,6 +173,36 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;bases_test.BasesDecodeTest.test_decode_binary&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS-3-Core-Data-Structures" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;recursion_test.RecursionTest.test_factorial_with_small_integers&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in recursion_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS-3-Core-Data-Structures" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/source/recursion_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -288,34 +303,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="scratch_pad" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CS-3-Core-Data-Structures" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratch_pad.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.scratch_pad" />
-      <item index="1" class="java.lang.String" itemvalue="Python.bases" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for bases_test.BasesDecodeTest.test_decode_binary" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.bases" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for bases_test.BasesDecodeTest.test_decode_binary" />
+      <item index="2" class="java.lang.String" itemvalue="Python.recursion" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in recursion_test.py" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.bases" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for bases_test.BasesDecodeTest.test_decode_binary" />
-        <item index="2" class="java.lang.String" itemvalue="Python.scratch_pad" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in recursion_test.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers" />
+        <item index="2" class="java.lang.String" itemvalue="Python.recursion" />
+        <item index="3" class="java.lang.String" itemvalue="Python.bases" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for bases_test.BasesDecodeTest.test_decode_binary" />
       </list>
     </recent_temporary>
   </component>
@@ -332,41 +351,45 @@
       <workItem from="1508903616218" duration="8140000" />
       <workItem from="1508944525259" duration="8461000" />
       <workItem from="1508973572500" duration="9704000" />
-      <workItem from="1509051006639" duration="3084000" />
+      <workItem from="1509051006639" duration="3433000" />
+      <workItem from="1509064131843" duration="5930000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_bases_test_BasesDecodeTest_test_decode_binary - 2017.10.25 at 16h 25m 50s.xml">
-      <configuration name="Unittests for bases_test.BasesDecodeTest.test_decode_binary" configurationId="tests" />
+    <history-entry file="Unittests_for_recursion_test_RecursionTest_test_factorial_with_small_integers - 2017.10.26 at 19h 07m 15s.xml">
+      <configuration name="Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_bases_test_BasesDecodeTest_test_decode_binary - 2017.10.26 at 14h 20m 53s.xml">
-      <configuration name="Unittests for bases_test.BasesDecodeTest.test_decode_binary" configurationId="tests" />
+    <history-entry file="Unittests_for_recursion_test_RecursionTest_test_factorial_with_small_integers - 2017.10.26 at 19h 07m 23s.xml">
+      <configuration name="Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_bases_test_BasesDecodeTest_test_decode_binary - 2017.10.26 at 14h 22m 02s.xml">
-      <configuration name="Unittests for bases_test.BasesDecodeTest.test_decode_binary" configurationId="tests" />
+    <history-entry file="Unittests_for_recursion_test_RecursionTest_test_factorial_with_small_integers - 2017.10.26 at 19h 07m 32s.xml">
+      <configuration name="Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_bases_test_BasesDecodeTest_test_decode_binary - 2017.10.26 at 14h 24m 41s.xml">
-      <configuration name="Unittests for bases_test.BasesDecodeTest.test_decode_binary" configurationId="tests" />
+    <history-entry file="Unittests_for_recursion_test_RecursionTest_test_factorial_with_small_integers - 2017.10.26 at 19h 07m 49s.xml">
+      <configuration name="Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_bases_test_BasesDecodeTest_test_decode_binary - 2017.10.26 at 14h 24m 53s.xml">
-      <configuration name="Unittests for bases_test.BasesDecodeTest.test_decode_binary" configurationId="tests" />
+    <history-entry file="Unittests_for_recursion_test_RecursionTest_test_factorial_with_small_integers - 2017.10.26 at 19h 08m 47s.xml">
+      <configuration name="Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_bases_test_BasesDecodeTest_test_decode_binary - 2017.10.26 at 14h 25m 42s.xml">
-      <configuration name="Unittests for bases_test.BasesDecodeTest.test_decode_binary" configurationId="tests" />
+    <history-entry file="Unittests_for_recursion_test_RecursionTest_test_factorial_with_small_integers - 2017.10.26 at 19h 11m 32s.xml">
+      <configuration name="Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_bases_test_BasesDecodeTest_test_decode_binary - 2017.10.26 at 14h 25m 56s.xml">
-      <configuration name="Unittests for bases_test.BasesDecodeTest.test_decode_binary" configurationId="tests" />
+    <history-entry file="Unittests_for_recursion_test_RecursionTest_test_factorial_with_small_integers - 2017.10.26 at 19h 14m 10s.xml">
+      <configuration name="Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_bases_test_BasesDecodeTest_test_decode_binary - 2017.10.26 at 14h 26m 15s.xml">
-      <configuration name="Unittests for bases_test.BasesDecodeTest.test_decode_binary" configurationId="tests" />
+    <history-entry file="Unittests_in_recursion_test_py - 2017.10.26 at 19h 18m 50s.xml">
+      <configuration name="Unittests in recursion_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_bases_test_BasesDecodeTest_test_decode_binary - 2017.10.26 at 14h 29m 05s.xml">
-      <configuration name="Unittests for bases_test.BasesDecodeTest.test_decode_binary" configurationId="tests" />
+    <history-entry file="Unittests_in_recursion_test_py - 2017.10.26 at 19h 19m 02s.xml">
+      <configuration name="Unittests in recursion_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_recursion_test_py - 2017.10.26 at 19h 19m 10s.xml">
+      <configuration name="Unittests in recursion_test.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29389000" />
+    <option name="totallyTimeSpent" value="35668000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,7 +401,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2296" y="27" width="1909" height="1027" extended-state="0" />
+    <frame x="1908" y="27" width="2297" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -388,12 +412,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28004292" sideWeight="0.5018747" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28004292" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28004292" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21137339" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21137339" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1178361" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09756097" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -443,11 +467,35 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="18" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/source/bases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch_pad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/bases_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/bases.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -537,26 +585,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scratch_pad.py">
+    <entry file="file://$PROJECT_DIR$/source/bases_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="323">
+          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/bases_test.py">
+    <entry file="file://$PROJECT_DIR$/scratch_pad.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        <state relative-caret-position="119">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/bases.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/recursion_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding />
         </state>
       </provider>
