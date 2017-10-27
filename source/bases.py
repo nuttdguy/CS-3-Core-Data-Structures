@@ -13,44 +13,31 @@ import string
 digits: str -- string representation of number (in given base)
 base: int -- base of given number
 return: int -- integer representation of number (in base 10)"""
-# Handle up to base 36 [0-9a-z]
+
+# use dictionary to store HEX specific key:value pairs
+HEX_DICT = {'A': 10, 'a': 10, 'B': 11, 'b': 11, 'C': 12, 'c': 12,
+              'D': 13, 'd': 13, 'E': 14, 'e': 14, 'F': 15, 'f': 15}
 
 # TODO: Decode digits from binary (base 2)
 def decode(digits, base):
 
     assert 2 <= base <= 36, 'base is out of range: {}'.format(base)
-    digits = int(digits) # STEP ONE, CONVERT TO INT
-    result = 0
-    power = 0
-    while int(digits) > 0:
-        pw = 2 ** power
-        mod = digits % base
-        result += pw * mod
-        digits = round(digits / base)
-        power += 1
-    return result # returns the binary representation
+    # Decode digits from hexadecimal (base 16)
+    # Decode digits from any base (2 up to 36)
+    digits_list = list(digits)[::-1]    # convert to list, then reverse
+    result = 0                          # initialize result to store value
+    power = 0                           # set power to begin at n^0
+
+    for num in digits_list:
+        if HEX_DICT.get(num) is not None:   # check for HEX value
+            num = HEX_DICT.get(num)             # assign value of corresponding hex key
+        pw = base ** power              # n^0, n^1, n^2, n^3
+        mod = int(num) % base           # modulus
+        result += pw * mod              # multiply and add to result
+        power += 1                      # increment power
+    return result                       # decodes binary to integer
 
 
-
-
-
-
-    # TODO: Decode digits from hexadecimal (base 16)
-    # if base is 16:
-    #     result = 0
-    #     digits_arr = list(digits)
-    #     power = 0
-    #     idx = 0
-    #     cur_digit = digits_arr[idx] ** 8
-    #     while digits > 0:
-    #         pw = 2 ** power
-    #         mod = digits % base
-    #         result += pw * mod
-    #         digits = round(digits / base)
-    #         power += 1
-    #     return result
-    # TODO: Decode digits from any base (2 up to 36)
-    # ...
 
     """Encode given number in base 10 to digits in given base.
     number: int -- integer representation of number (in base 10)
@@ -61,23 +48,16 @@ def decode(digits, base):
 def encode(number, base):
     assert 2 <= base <= 36, 'base is out of range: {}'.format(base)
     assert number >= 0, 'number is negative: {}'.format(number)
-    # TODO: Encode number in binary (base 2) [1010 1010 1010] (12)
-    # def base_2(number):
-    #     binary = 0
-    #     power = 0
-    #     while number > 0:
-    #         pw = 10 ** power
-    #         mod = number % 2
-    #         binary += pw * mod
-    #         number = round(number / 2)
-    #         power += 1
-    #     return binary
-    # def base_16(number):
-    #     number_arr = number.split()
-    #     hexi_deci = ''
-    #     for i in range(len(number_arr)):
-    #         if number_arr[i] == 'A':
-    #             hexi_deci = ''
+    # Encode number in binary (base 2) [1010 1010 1010] (12)
+        result = 0
+        power = 0
+        while number > 0:
+            pw = 10 ** power
+            mod = number % 2
+            result += pw * mod
+            # number = round(number / 2)
+            power += 1
+        return result
 
     # TODO: Encode number in hexadecimal (base 16) [9AEF 0B1C 001A 4512]
     # use above function, continue to check hexi-decimal
