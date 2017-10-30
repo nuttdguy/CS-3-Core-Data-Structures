@@ -12,8 +12,8 @@ def linear_search_iterative(array, item):
     # loop over all array values until item is found
     for index, value in enumerate(array):
         if item == value:
-            return index  # found
-    return None  # not found
+            return index            # found
+    return None                     # not found
 
 
 def linear_search_recursive(array, item, index=0):
@@ -24,32 +24,35 @@ def linear_search_recursive(array, item, index=0):
         return linear_search_recursive(array, item, index + 1)
     except IndexError:
         return None
-    # once implemented, change linear_search to call linear_search_recursive
-    # to verify that your recursive implementation passes all tests
 
 
 def binary_search(array, item):
     """return the index of item in sorted array or None if item is not found"""
     # implement binary_search_iterative and binary_search_recursive below, then
     # change this to call your implementation to verify it passes all tests
-    return binary_search_iterative(array, item)
-    # return binary_search_recursive(array, item)
+
+    # return binary_search_iterative(array, item)
+    return binary_search_recursive(array, item)
 
 
 def binary_search_iterative(array, item):
-    # TODO: implement binary search iteratively here
-    array_copy = sorted(array)
-    try:
-        return 1
-    except IndexError:
-        return None
+    # implement binary search iteratively here
+    sorted_array = sorted(array)            # sort the array
+    right = len(array) - 1                  # subtract one from total length
+    middleIdx = 0                           # create middle variable
+    left = 0                                # set left to zero
 
-    # once implemented, change binary_search to call binary_search_iterative
-    # to verify that your iterative implementation passes all tests
+    while left <= right:
+        middleIdx = left + (right - left) // 2      #
+        if sorted_array[middleIdx] == item:
+            return middleIdx                        # return middleIdx
+        elif sorted_array[middleIdx] < item:
+            left = middleIdx + 1                    # less than, set left side plus 1
+        else:
+            right = middleIdx - 1                   # otherwise, set right side less 1
+    return None
 
 
 def binary_search_recursive(array, item, left=None, right=None):
     # TODO: implement binary search recursively here
     pass
-    # once implemented, change binary_search to call binary_search_recursive
-    # to verify that your recursive implementation passes all tests

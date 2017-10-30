@@ -17,11 +17,9 @@ def factorial_iterative(n):
 
     result = 1
     for num in range(n):
-        # CHECK FOR BASE CASE
-        if n is 0 or n is 1:
-            return 1
-        # MULTIPLIES THE RESULT
-        result = result * (num + 1)
+        if n is 0 or n is 1:                    # CHECK FOR BASE CASE
+            return result
+        result = result * (num + 1)             # MULTIPLIES THE RESULT
     return result
 
 

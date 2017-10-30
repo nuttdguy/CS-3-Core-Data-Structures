@@ -26,7 +26,8 @@ HEX_DICT = {'A': 10, 'a': 10, 'B': 11, 'b': 11, 'C': 12, 'c': 12,
             'Y': 34, 'y': 34, 'Z': 35, 'z': 35}
 
 HEX_VALUES = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
-              'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+              'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x',
+              'y', 'z']
 
 
 def decode(digits, base):
@@ -78,24 +79,9 @@ def convert(digits, base1, base2):
     # TODO: Convert digits from base 2 to base 10 (and vice versa)
     # TODO: Convert digits from base 10 to base 16 (and vice versa)
     # TODO: Convert digits from any base to any base (2 up to 36)
-
     decoded = decode(digits, base1)
     encoded = encode(decoded, base2)
     return encoded
-
-    # string.digits is '0123456789'
-    # string.hexdigits is '0123456789abcdefABCDEF'
-    # string.ascii_lowercase is 'abcdefghijklmnopqrstuvwxyz'
-    # string.ascii_uppercase is 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-    # string.ascii_letters is ascii_lowercase + ascii_uppercase
-    # string.printable is digits + ascii_letters + punctuation + whitespace
-
-    """Convert given digits in base1 to digits in base2.
-    digits: str -- string representation of number (in base1)
-    base1: int -- base of given number
-    base2: int -- base to convert to
-    return: str -- string representation of number (in base2)"""
-    # Handle up to base 36 [0-9a-z]
 
 
 def main():
@@ -113,12 +99,6 @@ def main():
         print('Usage: {} digits base1 base2'.format(sys.argv[0]))
         print('Converts digits from base1 to base2')
 
-# string.digits is '0123456789'
-# string.hexdigits is '0123456789abcdefABCDEF'
-# string.ascii_lowercase is 'abcdefghijklmnopqrstuvwxyz'
-# string.ascii_uppercase is 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-# string.ascii_letters is ascii_lowercase + ascii_uppercase
-# string.printable is digits + ascii_letters + punctuation + whitespace
 
 if __name__ == '__main__':
     main()
