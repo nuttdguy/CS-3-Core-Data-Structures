@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e92044ad-fd47-4863-8346-25818903f5a2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Class3.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/palindromes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/palindromes_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReadMe.md" afterPath="$PROJECT_DIR$/ReadMe.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/recursion.py" afterPath="$PROJECT_DIR$/source/recursion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/palindromes.py" afterPath="$PROJECT_DIR$/source/palindromes.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/search.py" afterPath="$PROJECT_DIR$/source/search.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,12 +22,15 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesDecodeTest_test_decode_10.coverage" NAME="Unittests for bases_test.BasesDecodeTest.test_decode_10 Coverage Results" MODIFIED="1509077756905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesConvertTest_test_convert_decimal_to_hexadecimal.coverage" NAME="Unittests for bases_test.BasesConvertTest.test_convert_decimal_to_hexadecimal Coverage Results" MODIFIED="1509083371223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesDecodeTest_test_decode_binary.coverage" NAME="Unittests for bases_test.BasesDecodeTest.test_decode_binary Coverage Results" MODIFIED="1509076115729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest.coverage" NAME="Unittests for search_test.SearchTest Coverage Results" MODIFIED="1509331637468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest.coverage" NAME="Unittests for search_test.SearchTest Coverage Results" MODIFIED="1509396625368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_whitespace_and_punctuation.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace_and_punctuation Coverage Results" MODIFIED="1509422599259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$palindromes.coverage" NAME="palindromes Coverage Results" MODIFIED="1509423057711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_into_1010.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_into_1010 Coverage Results" MODIFIED="1509083869644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesConvertTest_test_convert_hexadecimal_to_decimal.coverage" NAME="Unittests for bases_test.BasesConvertTest.test_convert_hexadecimal_to_decimal Coverage Results" MODIFIED="1509082473757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_in_recursion_test_py.coverage" NAME="Unittests in recursion_test.py Coverage Results" MODIFIED="1509070792783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest_test_linear_search_with_items_not_in_list.coverage" NAME="Unittests for search_test.SearchTest.test_linear_search_with_items_not_in_list Coverage Results" MODIFIED="1509120994004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesDecodeTest_test_decode_101101.coverage" NAME="Unittests for bases_test.BasesDecodeTest.test_decode_101101 Coverage Results" MODIFIED="1509076422060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_in_palindromes_test_py.coverage" NAME="Unittests in palindromes_test.py Coverage Results" MODIFIED="1509408597787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_recursion_test_RecursionTest.coverage" NAME="Unittests for recursion_test.RecursionTest Coverage Results" MODIFIED="1509125127795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesDecodeTest_test_decode_decimal.coverage" NAME="Unittests for bases_test.BasesDecodeTest.test_decode_decimal Coverage Results" MODIFIED="1509083796148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesConvertTest_test_convert_from_binary.coverage" NAME="Unittests for bases_test.BasesConvertTest.test_convert_from_binary Coverage Results" MODIFIED="1509082419750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
@@ -43,50 +43,45 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_in_bases_test_py.coverage" NAME="Unittests in bases_test.py Coverage Results" MODIFIED="1509084553005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest_test_linear_search_with_items_in_list.coverage" NAME="Unittests for search_test.SearchTest.test_linear_search_with_items_in_list Coverage Results" MODIFIED="1509073424909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$search.coverage" NAME="search Coverage Results" MODIFIED="1509121359404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_whitespace.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace Coverage Results" MODIFIED="1509418179641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest_test_binary_search_with_items_not_in_list.coverage" NAME="Unittests for search_test.SearchTest.test_binary_search_with_items_not_in_list Coverage Results" MODIFIED="1509397013979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesConvertTest.coverage" NAME="Unittests for bases_test.BasesConvertTest Coverage Results" MODIFIED="1509083347066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing Coverage Results" MODIFIED="1509418170315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_whitespace_and_mixed_casing.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace_and_mixed_casing Coverage Results" MODIFIED="1509408545395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesConvertTest_test_convert_hexadecimal_to_binary.coverage" NAME="Unittests for bases_test.BasesConvertTest.test_convert_hexadecimal_to_binary Coverage Results" MODIFIED="1509084052633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest_test_binary_search_with_items_in_list.coverage" NAME="Unittests for search_test.SearchTest.test_binary_search_with_items_in_list Coverage Results" MODIFIED="1509332008549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest_test_binary_search_with_items_in_list.coverage" NAME="Unittests for search_test.SearchTest.test_binary_search_with_items_in_list Coverage Results" MODIFIED="1509397002537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes.coverage" NAME="Unittests for palindromes_test.TestPalindromes Coverage Results" MODIFIED="1509423809447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest.coverage" NAME="Unittests for bases_test.BasesEncodeTest Coverage Results" MODIFIED="1509083891346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing_and_punctuation.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation Coverage Results" MODIFIED="1509423894237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mirrored_strings.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mirrored_strings Coverage Results" MODIFIED="1509418107479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_binary.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_binary Coverage Results" MODIFIED="1509079804135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_1234.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_1234 Coverage Results" MODIFIED="1509080747635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1509069731560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_hexadecimal.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_hexadecimal Coverage Results" MODIFIED="1509080739258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$bases.coverage" NAME="bases Coverage Results" MODIFIED="1509053432483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_non_palindromic_strings.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_non_palindromic_strings Coverage Results" MODIFIED="1509422364452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_recursion_test_RecursionTest_test_factorial_with_small_integers.coverage" NAME="Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers Coverage Results" MODIFIED="1509070449943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6586632">
+    <splitter split-orientation="horizontal" split-proportion="0.5681941">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="search.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/source/search.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="85">
-                  <caret line="5" column="75" lean-forward="false" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
+                <state relative-caret-position="681">
+                  <caret line="65" column="53" lean-forward="true" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="recursion.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/source/recursion.py">
+          <file leaf-file-name="palindromes.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/source/palindromes.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+                <state relative-caret-position="243">
+                  <caret line="49" column="114" lean-forward="false" selection-start-line="49" selection-start-column="114" selection-end-line="49" selection-end-column="114" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ReadMe.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="188">
-                    <caret line="13" column="79" lean-forward="false" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
-                    <folding />
-                  </first_editor>
-                  <second_editor />
                 </state>
               </provider>
             </entry>
@@ -94,12 +89,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="search_test.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/source/search_test.py">
+        <leaf>
+          <file leaf-file-name="palindromes_test.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/source/palindromes_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                <state relative-caret-position="358">
+                  <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -126,9 +121,11 @@
         <option value="$PROJECT_DIR$/source/bases_test.py" />
         <option value="$PROJECT_DIR$/source/search_test.py" />
         <option value="$PROJECT_DIR$/source/bases.py" />
-        <option value="$PROJECT_DIR$/source/search.py" />
         <option value="$PROJECT_DIR$/source/recursion.py" />
         <option value="$PROJECT_DIR$/ReadMe.md" />
+        <option value="$PROJECT_DIR$/source/search.py" />
+        <option value="$PROJECT_DIR$/source/palindromes_test.py" />
+        <option value="$PROJECT_DIR$/source/palindromes.py" />
       </list>
     </option>
   </component>
@@ -139,9 +136,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1699" />
-    <option name="y" value="28" />
-    <option name="width" value="1802" />
+    <option name="x" value="1705" />
+    <option name="y" value="31" />
+    <option name="width" value="2095" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
@@ -159,7 +156,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,9 +174,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,7 +188,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/scratch_pad.py&#10;true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/scratch_pad.py&#10;/Volumes/web/_ms_cs_three/CS-3-Core-Data-Structures/source/search.py&#10;true&#10;/Volumes/web/_ms_cs_three/CS-3-Core-Data-Structures/source/palindromes.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,8 +202,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in search_test.py">
-    <configuration name="Unittests for recursion_test.RecursionTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation">
+    <configuration name="Unittests for palindromes_test.TestPalindromes" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -218,10 +215,10 @@
       <module name="CS-3-Core-Data-Structures" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;recursion_test.RecursionTest&quot;" />
+      <option name="_new_target" value="&quot;palindromes_test.TestPalindromes&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for search_test.SearchTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -233,10 +230,10 @@
       <module name="CS-3-Core-Data-Structures" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;search_test.SearchTest&quot;" />
+      <option name="_new_target" value="&quot;palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for search_test.SearchTest.test_binary_search_with_items_in_list" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_non_palindromic_strings" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -248,10 +245,10 @@
       <module name="CS-3-Core-Data-Structures" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;search_test.SearchTest.test_binary_search_with_items_in_list&quot;" />
+      <option name="_new_target" value="&quot;palindromes_test.TestPalindromes.test_is_palindrome_with_non_palindromic_strings&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests in search_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace_and_punctuation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -263,8 +260,8 @@
       <module name="CS-3-Core-Data-Structures" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/source/search_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace_and_punctuation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -395,7 +392,7 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="palindromes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -408,25 +405,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CS-3-Core-Data-Structures" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/palindromes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for search_test.SearchTest.test_binary_search_with_items_in_list" />
-      <item index="1" class="java.lang.String" itemvalue="Python.search" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in search_test.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for search_test.SearchTest" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for recursion_test.RecursionTest" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for palindromes_test.TestPalindromes" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace_and_punctuation" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_non_palindromic_strings" />
+      <item index="4" class="java.lang.String" itemvalue="Python.palindromes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in search_test.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for search_test.SearchTest.test_binary_search_with_items_in_list" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for search_test.SearchTest" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for recursion_test.RecursionTest" />
-        <item index="4" class="java.lang.String" itemvalue="Python.search" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for palindromes_test.TestPalindromes" />
+        <item index="2" class="java.lang.String" itemvalue="Python.palindromes" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace_and_punctuation" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_non_palindromic_strings" />
       </list>
     </recent_temporary>
   </component>
@@ -447,44 +444,46 @@
       <workItem from="1509064131843" duration="20112000" />
       <workItem from="1509120726943" duration="6490000" />
       <workItem from="1509218145876" duration="1387000" />
-      <workItem from="1509330156724" duration="3073000" />
+      <workItem from="1509330156724" duration="4020000" />
+      <workItem from="1509395774275" duration="1677000" />
+      <workItem from="1509404781366" duration="12552000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_search_test_SearchTest - 2017.10.29 at 19h 40m 41s.xml">
-      <configuration name="Unittests for search_test.SearchTest" configurationId="tests" />
+    <history-entry file="Unittests_for_palindromes_test_TestPalindromes - 2017.10.30 at 21h 15m 36s.xml">
+      <configuration name="Unittests for palindromes_test.TestPalindromes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_search_test_SearchTest - 2017.10.29 at 19h 47m 17s.xml">
-      <configuration name="Unittests for search_test.SearchTest" configurationId="tests" />
+    <history-entry file="Unittests_for_palindromes_test_TestPalindromes - 2017.10.30 at 21h 23m 29s.xml">
+      <configuration name="Unittests for palindromes_test.TestPalindromes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_search_test_SearchTest_test_binary_search_with_items_in_list - 2017.10.29 at 19h 37m 43s.xml">
-      <configuration name="Unittests for search_test.SearchTest.test_binary_search_with_items_in_list" configurationId="tests" />
+    <history-entry file="Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing_and_punctuation - 2017.10.30 at 21h 16m 39s.xml">
+      <configuration name="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_search_test_SearchTest_test_binary_search_with_items_in_list - 2017.10.29 at 19h 38m 48s.xml">
-      <configuration name="Unittests for search_test.SearchTest.test_binary_search_with_items_in_list" configurationId="tests" />
+    <history-entry file="Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing_and_punctuation - 2017.10.30 at 21h 17m 33s.xml">
+      <configuration name="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_search_test_SearchTest_test_binary_search_with_items_in_list - 2017.10.29 at 19h 46m 00s.xml">
-      <configuration name="Unittests for search_test.SearchTest.test_binary_search_with_items_in_list" configurationId="tests" />
+    <history-entry file="Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing_and_punctuation - 2017.10.30 at 21h 17m 54s.xml">
+      <configuration name="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_search_test_SearchTest_test_binary_search_with_items_in_list - 2017.10.29 at 19h 47m 03s.xml">
-      <configuration name="Unittests for search_test.SearchTest.test_binary_search_with_items_in_list" configurationId="tests" />
+    <history-entry file="Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing_and_punctuation - 2017.10.30 at 21h 18m 44s.xml">
+      <configuration name="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_search_test_SearchTest_test_binary_search_with_items_in_list - 2017.10.29 at 19h 47m 35s.xml">
-      <configuration name="Unittests for search_test.SearchTest.test_binary_search_with_items_in_list" configurationId="tests" />
+    <history-entry file="Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing_and_punctuation - 2017.10.30 at 21h 18m 54s.xml">
+      <configuration name="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_search_test_SearchTest_test_binary_search_with_items_in_list - 2017.10.29 at 19h 55m 20s.xml">
-      <configuration name="Unittests for search_test.SearchTest.test_binary_search_with_items_in_list" configurationId="tests" />
+    <history-entry file="Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing_and_punctuation - 2017.10.30 at 21h 22m 22s.xml">
+      <configuration name="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_search_test_py - 2017.10.27 at 09h 24m 50s.xml">
-      <configuration name="Unittests in search_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing_and_punctuation - 2017.10.30 at 21h 24m 44s.xml">
+      <configuration name="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_search_test_py - 2017.10.29 at 19h 56m 07s.xml">
-      <configuration name="Unittests in search_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing_and_punctuation - 2017.10.30 at 21h 25m 43s.xml">
+      <configuration name="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60800000" />
+    <option name="totallyTimeSpent" value="75976000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -496,7 +495,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1699" y="28" width="1802" height="1027" extended-state="0" />
+    <frame x="1705" y="31" width="2095" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -507,12 +506,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28004292" sideWeight="0.5018747" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31008583" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2811159" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976133" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3111588" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3111588" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12443182" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09644423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -520,7 +520,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31330472" sideWeight="0.49812534" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31330472" sideWeight="0.49812534" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -549,6 +549,11 @@
           <line>32</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/palindromes_test.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -557,11 +562,43 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="49" />
+      <option name="time" value="68" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/source/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/palindromes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/palindromes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
@@ -582,7 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -614,7 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -764,31 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/search_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="75" lean-forward="false" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/recursion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -797,9 +806,47 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="188">
             <caret line="13" column="79" lean-forward="false" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
-            <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/search_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="65" column="53" lean-forward="true" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/palindromes_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/palindromes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="49" column="114" lean-forward="false" selection-start-line="49" selection-start-column="114" selection-end-line="49" selection-end-column="114" />
+          <folding />
         </state>
       </provider>
     </entry>

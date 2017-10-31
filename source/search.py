@@ -53,5 +53,19 @@ def binary_search_iterative(array, item):
 
 
 def binary_search_recursive(array, item, left=None, right=None):
-    # TODO: implement binary search recursively here
-    pass
+    # implement binary search recursively here
+    if left is None:
+        array = sorted(array)                       # on first iteration, sort the elements
+        left = 0                                    # set the left position at 0
+        right = len(array)-1                        # set the right at position at length
+
+    middleIdx = left + (right - left) // 2          # left, take the (right side subtract left value) divide by 2
+
+    if array[middleIdx] == item:                    # check current is equal to item
+        return middleIdx
+    if left == right:                               #
+        return None
+    elif array[middleIdx] < item:                   # if current, less than item -- add to left
+        return binary_search_recursive(array, item, middleIdx + 1, right)
+    elif array[middleIdx] > item:                   # if current, more than item -- subtract from right idx
+        return binary_search_recursive(array, item, left, middleIdx - 1)
