@@ -112,7 +112,6 @@ class LinkedList(object):
                     self.append(item_before)        # append the item_before after new item
                     return
 
-
     def append(self, item):
         """Insert the given item at the tail of this linked list.
         Best and worst case running time: ??? under what conditions? [TODO]"""
