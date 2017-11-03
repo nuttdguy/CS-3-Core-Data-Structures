@@ -1,5 +1,6 @@
 #!python
 
+
 def contains(text, pattern):
     """Return a boolean indicating whether pattern occurs in text."""
     assert isinstance(text, str), 'text is not a string: {}'.format(text)
@@ -24,21 +25,17 @@ def find_index(text, pattern):
     compare_text = ''                               # set empty variable for text to match
     pattern_size = len(pattern)                     # get the size of pattern
     for idx in range(text_size):
+                                                    # TODO: use second_idx to use inside the loop
         compare_text += text[idx]                   # store each letter of text with each iteration
         compare_text_size = len(compare_text)       # get the size of text to compare
 
         if compare_text_size == pattern_size:       # check size of compare text is equal to pattern size
-            if compare_text in pattern:
+            if compare_text == pattern:             # O(n) time in worst case (mostly matching)
                 if compare_text_size <= 1:          # if compare text size is one or less one
                     return idx                      # return the idx
                 else:
-                    return idx - (compare_text_size - 1)  # otherwise, subtract (compare size - 1) to get current index
-
-        if compare_text_size == pattern_size:       # reset text pattern minus pattern length
-            if compare_text_size <= 1:
-                compare_text = ''                   # size equal or less than one, set compare text to ''
-            else:
-                compare_text = compare_text[1:]     # otherwise, slice 1 letter from beginning and continue search
+                    return idx - (compare_text_size - 1)  # otherwise, subtract (compare size - 1) to get start index
+            compare_text = compare_text[1:]         # slice 1 letter from beginning and continue search
     return None
 
 
@@ -71,7 +68,7 @@ def find_all_indexes(text, pattern):
                     match_list.append(idx)          # add the idx
                 else:
                     # otherwise, subtract (compare size - 1) to get current index
-                    match_total += 1                                       # increment match total
+                    match_total += 1                                    # increment match total
                     match_list.append(idx - (compare_text_size - 1))    # add the index
 
         if compare_text_size == pattern_size:       # reset text pattern minus pattern length
@@ -86,10 +83,10 @@ def find_all_indexes(text, pattern):
 def test_string_algorithms(text, pattern):
     found = contains(text, pattern)
     print('contains({!r}, {!r}) => {}'.format(text, pattern, found))
-    # TODO: Uncomment these lines after you implement find_index
+    # Uncomment these lines after you implement find_index
     index = find_index(text, pattern)
     print('find_index({!r}, {!r}) => {}'.format(text, pattern, index))
-    # TODO: Uncomment these lines after you implement find_all_indexes
+    # Uncomment these lines after you implement find_all_indexes
     indexes = find_all_indexes(text, pattern)
     print('find_all_indexes({!r}, {!r}) => {}'.format(text, pattern, indexes))
 
