@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e92044ad-fd47-4863-8346-25818903f5a2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/strings.py" afterPath="$PROJECT_DIR$/source/strings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/strings_test.py" afterPath="$PROJECT_DIR$/source/strings_test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,7 +70,7 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesDecodeTest_test_decode_hexadecimal.coverage" NAME="Unittests for bases_test.BasesDecodeTest.test_decode_hexadecimal Coverage Results" MODIFIED="1509077766265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest_test_linear_search_with_items_in_list.coverage" NAME="Unittests for search_test.SearchTest.test_linear_search_with_items_in_list Coverage Results" MODIFIED="1509073424909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_find_all_indexes_with_matching_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_find_all_indexes_with_matching_patterns Coverage Results" MODIFIED="1509578322490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest.coverage" NAME="Unittests for strings_test.StringsTest Coverage Results" MODIFIED="1509945336179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest.coverage" NAME="Unittests for strings_test.StringsTest Coverage Results" MODIFIED="1509946542087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_get_at_index.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_get_at_index Coverage Results" MODIFIED="1509686056177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_whitespace.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace Coverage Results" MODIFIED="1509418179641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_length.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_length Coverage Results" MODIFIED="1509684963558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
@@ -106,8 +106,8 @@
           <file leaf-file-name="strings.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/strings.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+                <state relative-caret-position="408">
+                  <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
                   <folding>
                     <element signature="e#1200#1286#0" expanded="false" />
                   </folding>
@@ -123,7 +123,7 @@
             <entry file="file://$PROJECT_DIR$/source/queue_test.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="51">
-                  <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                  <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -132,8 +132,8 @@
           <file leaf-file-name="strings_test.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/strings_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="307">
-                  <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+                <state relative-caret-position="474">
+                  <caret line="122" column="80" lean-forward="false" selection-start-line="122" selection-start-column="80" selection-end-line="122" selection-end-column="80" />
                   <folding />
                 </state>
               </provider>
@@ -175,8 +175,8 @@
         <option value="$PROJECT_DIR$/source/queue_test.py" />
         <option value="$PROJECT_DIR$/source/queue.py" />
         <option value="$PROJECT_DIR$/source/search.py" />
-        <option value="$PROJECT_DIR$/source/strings_test.py" />
         <option value="$PROJECT_DIR$/source/strings.py" />
+        <option value="$PROJECT_DIR$/source/strings_test.py" />
       </list>
     </option>
   </component>
@@ -489,34 +489,34 @@
       <workItem from="1509577701880" duration="5107000" />
       <workItem from="1509682852216" duration="7436000" />
       <workItem from="1509728530469" duration="6488000" />
-      <workItem from="1509910049231" duration="17990000" />
+      <workItem from="1509910049231" duration="18892000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 02m 04s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 03m 01s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 03m 29s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 08m 18s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 08m 34s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 08m 55s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 15m 36s.xml">
       <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest_test_find_index_with_complex_patterns - 2017.11.05 at 21h 08m 41s.xml">
-      <configuration name="Unittests for strings_test.StringsTest.test_find_index_with_complex_patterns" configurationId="tests" />
+    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 29m 34s.xml">
+      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 30m 43s.xml">
+      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 32m 06s.xml">
+      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 33m 08s.xml">
+      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 34m 24s.xml">
+      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 35m 14s.xml">
+      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 35m 42s.xml">
+      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_strings_test_py - 2017.11.05 at 21h 09m 00s.xml">
       <configuration name="Unittests in strings_test.py" configurationId="tests" />
@@ -526,7 +526,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122794000" />
+    <option name="totallyTimeSpent" value="123696000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -548,10 +548,10 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28004292" sideWeight="0.5018747" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2585837" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585837" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19849785" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19849785" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09148133" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -600,13 +600,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/palindromes_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -983,26 +976,34 @@
     <entry file="file://$PROJECT_DIR$/source/queue_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/strings_test.py">
+    <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-2010535109/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="3700" column="8" lean-forward="false" selection-start-line="3700" selection-start-column="8" selection-end-line="3700" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/strings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        <state relative-caret-position="408">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding>
             <element signature="e#1200#1286#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/strings_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="122" column="80" lean-forward="false" selection-start-line="122" selection-start-column="80" selection-end-line="122" selection-end-column="80" />
+          <folding />
         </state>
       </provider>
     </entry>
