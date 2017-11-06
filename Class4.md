@@ -6,15 +6,10 @@
 - Concrete data structures: [array], [dynamic array (resizable array, vector)][dynamic array], [linked list]
 
 ### Resources
-<<<<<<< HEAD
 - Review Make School's [array and linked list slides][list slides]
 - Watch Make School's [array and linked list video lecture][list video]
-=======
-- Review Make School's [array and linked list slides]
-- Watch Make School's [array and linked list video lecture]
 - Watch HackerRank's [linked list video]
 - Watch Harvard's [array video], [singly linked list video], and [doubly linked list video]
->>>>>>> a65620d1e232531e015dd4e97b48a54f0287c79c
 - Play with VisuAlgo's [interactive linked list visualization][visualgo list]
 
 ### Challenges
@@ -41,17 +36,15 @@
 [dynamic array]: https://en.wikipedia.org/wiki/Dynamic_array
 [linked list]: https://en.wikipedia.org/wiki/Linked_list
 
-<<<<<<< HEAD
+
 [list slides]: slides/ArraysLinkedLists.pdf
 [list video]: https://www.youtube.com/watch?v=3WWuf4H61Nk
-=======
 [array and linked list slides]: slides/ArraysLinkedLists.pdf
 [array and linked list video lecture]: https://www.youtube.com/watch?v=3WWuf4H61Nk
 [linked list video]: https://www.youtube.com/watch?v=njTh_OwMljA
 [array video]: https://www.youtube.com/watch?v=7EdaoE46BTI
 [singly linked list video]: https://www.youtube.com/watch?v=ZoG2hOIoTnA
 [doubly linked list video]: https://www.youtube.com/watch?v=HmAEzp1taIE
->>>>>>> a65620d1e232531e015dd4e97b48a54f0287c79c
 [visualgo list]: https://visualgo.net/list
 
 [linked list starter code]: source/linkedlist.py

@@ -7,7 +7,6 @@ def contains(text, pattern):
     assert isinstance(pattern, str), 'pattern is not a string: {}'.format(text)
     # Implement contains here (iteratively and/or recursively)
     # WORST CASE == O(n2)
-
     has_pattern = find_all_indexes(text, pattern)       # O(n2)
     if has_pattern.__len__():                           # O(1)
         return True
@@ -28,22 +27,6 @@ def find_index(text, pattern):
         return find_all_indexes(text, pattern)[0]       # O(n2) get the first value, which is index of pattern
     except IndexError:
         return None                                     # O(1) if list empty, return NONE - item was not found
-    # text_size = len(text)                           # get the size of text for iteration
-    # compare_text = ''                               # set empty variable for text to match
-    # pattern_size = len(pattern)                     # get the size of pattern
-    # for idx in range(text_size):
-    #                                                 # TODO: use second_idx to use inside the loop
-    #     compare_text += text[idx]                   # store each letter of text with each iteration
-    #     compare_text_size = len(compare_text)       # get the size of text to compare
-    #
-    #     if compare_text_size == pattern_size:       # check size of compare text is equal to pattern size
-    #         if compare_text == pattern:             # O(n) time in worst case (mostly matching)
-    #             if compare_text_size <= 1:          # if compare text size is one or less one
-    #                 return idx                      # return the idx
-    #             else:
-    #                 return idx - (compare_text_size - 1)  # otherwise, subtract (compare size - 1) to get start index
-    #         compare_text = compare_text[1:]         # slice 1 letter from beginning and continue search
-    # return None
 
 
 def find_all_indexes(text, pattern):

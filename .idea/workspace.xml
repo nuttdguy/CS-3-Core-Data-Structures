@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e92044ad-fd47-4863-8346-25818903f5a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teleo/normalize.py" afterPath="$PROJECT_DIR$/teleo/normalize.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Class4.md" afterPath="$PROJECT_DIR$/Class4.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReadMe.md" afterPath="$PROJECT_DIR$/ReadMe.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/linkedlist.py" afterPath="$PROJECT_DIR$/source/linkedlist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/linkedlist_test.py" afterPath="$PROJECT_DIR$/source/linkedlist_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/queue.py" afterPath="$PROJECT_DIR$/source/queue.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/queue_test.py" afterPath="$PROJECT_DIR$/source/queue_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/strings.py" afterPath="$PROJECT_DIR$/source/strings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/strings_test.py" afterPath="$PROJECT_DIR$/source/strings_test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -115,23 +121,34 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="cost_script.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="cost_script.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/teleo/cost_script.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="255">
-                  <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                  <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="strings.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/source/strings.py">
+          <file leaf-file-name="strings_test.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/strings_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+                <state relative-caret-position="1815">
+                  <caret line="120" column="78" lean-forward="false" selection-start-line="120" selection-start-column="78" selection-end-line="120" selection-end-column="78" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="linkedlist.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/source/linkedlist.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="185">
+                  <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
                   <folding>
-                    <element signature="e#1200#1286#0" expanded="false" />
+                    <element signature="e#1085#1982#0" expanded="false" />
+                    <element signature="e#2138#2728#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -141,17 +158,17 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="queue_test.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="queue_test.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/queue_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+                <state relative-caret-position="513">
+                  <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="route-costs-100.txt" pinned="false" current-in-tab="true">
+          <file leaf-file-name="route-costs-100.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/teleo/route-costs-100.txt">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
@@ -188,18 +205,19 @@
         <option value="$PROJECT_DIR$/source/search_test.py" />
         <option value="$PROJECT_DIR$/source/bases.py" />
         <option value="$PROJECT_DIR$/source/recursion.py" />
-        <option value="$PROJECT_DIR$/ReadMe.md" />
         <option value="$PROJECT_DIR$/source/palindromes_test.py" />
         <option value="$PROJECT_DIR$/source/palindromes.py" />
-        <option value="$PROJECT_DIR$/source/linkedlist_test.py" />
-        <option value="$PROJECT_DIR$/source/linkedlist.py" />
-        <option value="$PROJECT_DIR$/source/queue_test.py" />
-        <option value="$PROJECT_DIR$/source/queue.py" />
         <option value="$PROJECT_DIR$/source/search.py" />
-        <option value="$PROJECT_DIR$/source/strings.py" />
-        <option value="$PROJECT_DIR$/source/strings_test.py" />
         <option value="$PROJECT_DIR$/teleo/normalize.py" />
         <option value="$PROJECT_DIR$/teleo/cost_script.py" />
+        <option value="$PROJECT_DIR$/ReadMe.md" />
+        <option value="$PROJECT_DIR$/Class4.md" />
+        <option value="$PROJECT_DIR$/source/strings_test.py" />
+        <option value="$PROJECT_DIR$/source/strings.py" />
+        <option value="$PROJECT_DIR$/source/queue_test.py" />
+        <option value="$PROJECT_DIR$/source/queue.py" />
+        <option value="$PROJECT_DIR$/source/linkedlist_test.py" />
+        <option value="$PROJECT_DIR$/source/linkedlist.py" />
       </list>
     </option>
   </component>
@@ -540,7 +558,7 @@
       <workItem from="1509577701880" duration="5107000" />
       <workItem from="1509682852216" duration="7436000" />
       <workItem from="1509728530469" duration="6488000" />
-      <workItem from="1509910049231" duration="24193000" />
+      <workItem from="1509910049231" duration="25097000" />
     </task>
     <servers />
   </component>
@@ -577,7 +595,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128997000" />
+    <option name="totallyTimeSpent" value="129901000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,10 +617,10 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28004292" sideWeight="0.5018747" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585837" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2585837" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19849785" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19849785" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12715065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -651,14 +669,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/palindromes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -902,43 +912,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="188">
-            <caret line="13" column="79" lean-forward="false" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/teleo/phone-numbers-10.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/linkedlist_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1411">
-          <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/linkedlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="e#1085#1982#0" expanded="false" />
-            <element signature="e#2138#2728#0" expanded="false" />
-            <element signature="e#6888#7449#0" expanded="false" />
-            <element signature="e#7488#8050#0" expanded="false" />
-            <element signature="e#8089#9187#0" expanded="false" />
-            <element signature="e#9226#11401#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,14 +927,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="70" column="30" lean-forward="false" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1001,24 +970,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/strings_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1340">
-          <caret line="109" column="63" lean-forward="true" selection-start-line="109" selection-start-column="63" selection-end-line="109" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#1200#1286#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/teleo/route-costs-10.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1035,10 +986,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/queue_test.py">
+    <entry file="file://$PROJECT_DIR$/Class4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="544">
+            <caret line="32" column="63" lean-forward="true" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="459">
+            <caret line="27" column="66" lean-forward="true" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teleo/cost_script.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1051,11 +1032,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teleo/cost_script.py">
+    <entry file="file://$PROJECT_DIR$/source/queue_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="513">
+          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/linkedlist_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-830">
+          <caret line="102" column="27" lean-forward="false" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/strings_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1815">
+          <caret line="120" column="78" lean-forward="false" selection-start-line="120" selection-start-column="78" selection-end-line="120" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/linkedlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+          <folding>
+            <element signature="e#1085#1982#0" expanded="false" />
+            <element signature="e#2138#2728#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

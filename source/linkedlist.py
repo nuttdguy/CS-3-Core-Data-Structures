@@ -87,6 +87,7 @@ class LinkedList(object):
             index -= 1                      # O(N) decrease index counter by minus one
         return data                         # return the data found at the given index
 
+
     def insert_at_index(self, index, item):
         """Insert the given item at the given index in this linked list, or
         raise ValueError if the given index is out of range of the list size.

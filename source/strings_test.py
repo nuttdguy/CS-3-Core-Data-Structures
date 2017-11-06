@@ -56,7 +56,6 @@ class StringsTest(unittest.TestCase):
         assert find_index('gshgsagshgsxgetgets', 'gsx') == 9  # all strings contain themselves
         assert find_index('aaaaaaaab', 'aaaab') == 4 # not resetting pattern
 
-
     def test_find_index_with_non_matching_patterns(self):
         # Negative test cases (counterexamples) with non-matching patterns
         assert find_index('abc', 'z') is None  # remember to test other letters
