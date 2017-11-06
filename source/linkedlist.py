@@ -102,15 +102,29 @@ class LinkedList(object):
         elif index is 0:
             self.prepend(item)
         else:
-            item_before = self.get_at_index(index - 1)      # get the item before the index passed in
-            node = self.head
-            for i in range(self.size):
-                data = node.next
-                if data.data == item_before:
-                    self.delete(data.data)          # delete the node before
-                    self.append(item)               # append the new node
-                    self.append(item_before)        # append the item_before after new item
-                    return
+            node_before = self.get_at_index(index - 1)      # get the item before the index passed in
+            current_node = self.head                        # set the node to the head
+            for i in range(self.size):                      # iterate through the current size
+                if current_node.data == node_before:        # at index, means we are at the position to append
+                    self.append(item)                       # append the new item, uses existing append method
+                    self.tail = current_node.next           # set the tail to the next
+                    return                                  # return, no need to continue
+                current_node = current_node.next            # set current node to the next node
+
+    def replace(self, old_item, new_item):
+        """Replace the given old_item in this linked list with given new_item
+        using the same node, or raise ValueError if old_item is not found.
+        Best case running time: ??? under what conditions? [TODO]
+        Worst case running time: ??? under what conditions? [TODO]"""
+        # TODO: Find the node containing the given old_item and replace its
+        # data with new_item, without creating a new node object
+        current_node = self.head                        # set the node to the head (A)
+        while current_node is not None:                 # iterate through list
+            if current_node.data == old_item:           # check old data is equal to new item
+                current_node.data = new_item            # set old item to new item when found
+                return                                  # return, item replaced - do not need to continue
+            current_node = current_node.next            # when no match, move to next node in list
+        raise ValueError                                # item was not found, raise an error
 
     def append(self, item):
         """Insert the given item at the tail of this linked list.
@@ -162,14 +176,6 @@ class LinkedList(object):
         # We never found data satisfying quality, but have to return something
         return None  # Constant time to return None
 
-    def replace(self, old_item, new_item):
-        """Replace the given old_item in this linked list with given new_item
-        using the same node, or raise ValueError if old_item is not found.
-        Best case running time: ??? under what conditions? [TODO]
-        Worst case running time: ??? under what conditions? [TODO]"""
-        # TODO: Find the node containing the given old_item and replace its
-        # data with new_item, without creating a new node object
-        pass
 
     def delete(self, item):
         """Delete the given item from this linked list, or raise ValueError.
