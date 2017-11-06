@@ -17,7 +17,7 @@ class StringsTest(unittest.TestCase):
         assert contains('abc', 'abc') is True  # all strings contain themselves
         assert contains('aaa', 'a') is True  # multiple occurrences
         assert contains('aaa', 'aa') is True  # overlapping pattern
-        assert contains('aaaaaaaa', 'aaaab') is True  # not resetting pattern
+        assert contains('aaaaaaaab', 'aaaab') is True  # not resetting pattern
         # TODO: Write more positive test cases with assert is True statements
         # ...
 
@@ -55,6 +55,8 @@ class StringsTest(unittest.TestCase):
         assert find_index('abcjdhiuadjow', 'jdhi') == 3  # all strings contain themselves
         assert find_index('iureyjaodja', 'jao') == 5  # all strings contain themselves
         assert find_index('gshgsagshgsxgetgets', 'gsx') == 9  # all strings contain themselves
+        assert find_index('aaaaaaaab', 'aaaab') == 4 # not resetting pattern
+
 
     def test_find_index_with_non_matching_patterns(self):
         # Negative test cases (counterexamples) with non-matching patterns
