@@ -6,8 +6,10 @@ def contains(text, pattern):
     assert isinstance(text, str), 'text is not a string: {}'.format(text)
     assert isinstance(pattern, str), 'pattern is not a string: {}'.format(text)
     # Implement contains here (iteratively and/or recursively)
+    # WORST CASE == O(n2)
 
-    if pattern in text:
+    has_pattern = find_all_indexes(text, pattern)       # O(n2)
+    if has_pattern.__len__():                           # O(1)
         return True
     return False
 
@@ -18,12 +20,14 @@ def find_index(text, pattern):
     assert isinstance(text, str), 'text is not a string: {}'.format(text)
     assert isinstance(pattern, str), 'pattern is not a string: {}'.format(text)
     # Implement find_index here (iteratively and/or recursively)
+    # WORST CASE == O(n2)
+
     if pattern is '':
         return 0
     try:
-        return find_all_indexes(text, pattern)[0]       # get the first value, which is index position
+        return find_all_indexes(text, pattern)[0]       # O(n2) get the first value, which is index of pattern
     except IndexError:
-        return None                                     # if list empty, return NONE - item was not found
+        return None                                     # O(1) if list empty, return NONE - item was not found
     # text_size = len(text)                           # get the size of text for iteration
     # compare_text = ''                               # set empty variable for text to match
     # pattern_size = len(pattern)                     # get the size of pattern
@@ -48,41 +52,37 @@ def find_all_indexes(text, pattern):
     assert isinstance(text, str), 'text is not a string: {}'.format(text)
     assert isinstance(pattern, str), 'pattern is not a string: {}'.format(text)
     # Implement find_all_indexes here (iteratively and/or recursively)
+    # WORST CASE == O(n2)
 
-    text_size = len(text)                           # get the size of text for iteration
-    compare_text = ''                               # set empty variable for text to match
-    pattern_size = len(pattern)                     # get the size of pattern
-    slice_count = 0
+    text_size = len(text)                           # O(1) get the size of text for iteration
+    pattern_size = len(pattern)                     # O(1) get the size of pattern
+    calc_range_stop = (text_size - (pattern_size - 1))      # O(1) calculate stop range for iteration
+
+    slice_start = 0
     match_total = 0
     match_list = []
 
     if pattern is '':                               # for special case of ''
-        for emptyIdx in range(text_size):
+        for emptyIdx in range(text_size):           # O(N)
             match_list.append(emptyIdx)
-        return match_list
+        return match_list                           # O(1)
 
-    for idx in range(0, (text_size - (pattern_size - 1))):
-        compare_text = text[slice_count:pattern_size + slice_count]
-        # compare_text += text[idx]                 # store each letter of text with each iteration
-        compare_text_size = len(compare_text)       # get the size of text to compare
+    for idx in range(0, calc_range_stop):           # O(N)
+        slice_stop = pattern_size + slice_start         # O(1) set the slice stop
+        compare_text = text[slice_start:slice_stop]     # O(1) slice letters of text with each iteration
+        compare_text_size = len(compare_text)       # O(1) get the size of text to compare
 
-        if compare_text_size == pattern_size:       # check size of compare text is equal to pattern size
-            if compare_text == pattern:
-                if compare_text_size <= 1:          # if compare text size is one or less one
-                    match_total += 1                # increment match total
-                    match_list.append(idx)          # add the idx
+        if compare_text_size == pattern_size:       # O(1) check size of compare text is equal to pattern size
+            if compare_text == pattern:             # O(N)
+                if compare_text_size <= 1:          # O(1) if compare text size is one or less one
+                    match_total += 1                # O(1) increment match total
+                    match_list.append(idx)          # O(1) add the current index position to list
                 else:
-                    # otherwise, subtract (compare size - 1) to get current index
-                    match_total += 1                                    # increment match total
-                    # match_list.append(idx - (compare_text_size - 1))    # add the index
-                    match_list.append(idx)    # add the index
-            slice_count += 1
-            # compare_text = text[slice_count:compare_text_size + slice_count]
-            # otherwise, slice 1 letter from beginning and continue search
+                    match_total += 1                # O(1) increment match total
+                    match_list.append(idx)          # O(1) add the current index position to list
+            slice_start += 1                        # O(1) increment the slice start position
 
-    if match_total <= 1:
-        return match_list
-    return match_list
+    return match_list                               # return the list
 
 
 def test_string_algorithms(text, pattern):
