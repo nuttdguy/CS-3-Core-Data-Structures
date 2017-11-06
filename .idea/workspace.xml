@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e92044ad-fd47-4863-8346-25818903f5a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/linkedlist.py" afterPath="$PROJECT_DIR$/source/linkedlist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/linkedlist_test.py" afterPath="$PROJECT_DIR$/source/linkedlist_test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +33,7 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_find_all_indexes_with_non_matching_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_find_all_indexes_with_non_matching_patterns Coverage Results" MODIFIED="1509499829880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_size.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_size Coverage Results" MODIFIED="1509685200849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_contains_with_matching_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_contains_with_matching_patterns Coverage Results" MODIFIED="1509493818388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$linkedlist.coverage" NAME="linkedlist Coverage Results" MODIFIED="1509686684988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$linkedlist.coverage" NAME="linkedlist Coverage Results" MODIFIED="1509937465056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$search.coverage" NAME="search Coverage Results" MODIFIED="1509121359404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest_test_binary_search_with_items_not_in_list.coverage" NAME="Unittests for search_test.SearchTest.test_binary_search_with_items_not_in_list Coverage Results" MODIFIED="1509397013979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing Coverage Results" MODIFIED="1509418170315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
@@ -59,7 +57,7 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest_test_linear_search_with_items_not_in_list.coverage" NAME="Unittests for search_test.SearchTest.test_linear_search_with_items_not_in_list Coverage Results" MODIFIED="1509120994004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesDecodeTest_test_decode_101101.coverage" NAME="Unittests for bases_test.BasesDecodeTest.test_decode_101101 Coverage Results" MODIFIED="1509076422060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_replace.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_replace Coverage Results" MODIFIED="1509936839545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest.coverage" NAME="Unittests for linkedlist_test.LinkedListTest Coverage Results" MODIFIED="1509937284073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest.coverage" NAME="Unittests for linkedlist_test.LinkedListTest Coverage Results" MODIFIED="1509938016015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_in_palindromes_test_py.coverage" NAME="Unittests in palindromes_test.py Coverage Results" MODIFIED="1509408597787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_find.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_find Coverage Results" MODIFIED="1509927165386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_find_index_with_non_matching_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_find_index_with_non_matching_patterns Coverage Results" MODIFIED="1509498600263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
@@ -104,17 +102,15 @@
           <file leaf-file-name="linkedlist.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/linkedlist.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="278">
-                  <caret line="126" column="92" lean-forward="false" selection-start-line="126" selection-start-column="92" selection-end-line="126" selection-end-column="92" />
+                <state relative-caret-position="160">
+                  <caret line="111" column="67" lean-forward="false" selection-start-line="111" selection-start-column="67" selection-end-line="111" selection-end-column="67" />
                   <folding>
                     <element signature="e#1085#1982#0" expanded="false" />
-                    <element signature="e#2016#2106#0" expanded="false" />
                     <element signature="e#2138#2728#0" expanded="false" />
-                    <element signature="e#2773#3489#0" expanded="false" />
-                    <element signature="e#3543#5002#0" expanded="false" />
-                    <element signature="e#6166#6727#0" expanded="false" />
-                    <element signature="e#6766#7328#0" expanded="false" />
-                    <element signature="e#8504#10679#0" expanded="false" />
+                    <element signature="e#6888#7449#0" expanded="false" />
+                    <element signature="e#7488#8050#0" expanded="false" />
+                    <element signature="e#8089#9187#0" expanded="false" />
+                    <element signature="e#9226#11401#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -127,8 +123,8 @@
           <file leaf-file-name="linkedlist_test.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/linkedlist_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="426">
-                  <caret line="165" column="0" lean-forward="true" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+                <state relative-caret-position="360">
+                  <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -297,21 +293,6 @@
       <option name="_new_target" value="&quot;linkedlist_test.LinkedListTest.test_insert_at_index&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for linkedlist_test.LinkedListTest.test_prepend" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CS-3-Core-Data-Structures" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;linkedlist_test.LinkedListTest.test_prepend&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
     <configuration name="Unittests for linkedlist_test.LinkedListTest.test_replace" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -456,20 +437,38 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration name="linkedlist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS-3-Core-Data-Structures" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/linkedlist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_insert_at_index" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_prepend" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_find" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_replace" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_find" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_replace" />
+      <item index="4" class="java.lang.String" itemvalue="Python.linkedlist" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_replace" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_insert_at_index" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_find" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_prepend" />
+        <item index="1" class="java.lang.String" itemvalue="Python.linkedlist" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_replace" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_insert_at_index" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for linkedlist_test.LinkedListTest.test_find" />
       </list>
     </recent_temporary>
   </component>
@@ -499,26 +498,11 @@
       <workItem from="1509577701880" duration="5107000" />
       <workItem from="1509682852216" duration="7436000" />
       <workItem from="1509728530469" duration="6488000" />
-      <workItem from="1509910049231" duration="10392000" />
+      <workItem from="1509910049231" duration="11296000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 18h 53m 10s.xml">
-      <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 18h 53m 31s.xml">
-      <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 18h 55m 37s.xml">
-      <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 18h 55m 57s.xml">
-      <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 18h 57m 59s.xml">
-      <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 18h 58m 16s.xml">
       <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
     </history-entry>
@@ -531,12 +515,27 @@
     <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 19h 01m 24s.xml">
       <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_linkedlist_test_LinkedListTest_test_replace - 2017.11.05 at 18h 54m 50s.xml">
-      <configuration name="Unittests for linkedlist_test.LinkedListTest.test_replace" configurationId="tests" />
+    <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 19h 04m 39s.xml">
+      <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 19h 12m 32s.xml">
+      <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 19h 12m 44s.xml">
+      <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 19h 12m 56s.xml">
+      <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 19h 13m 02s.xml">
+      <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_linkedlist_test_LinkedListTest - 2017.11.05 at 19h 13m 36s.xml">
+      <configuration name="Unittests for linkedlist_test.LinkedListTest" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115196000" />
+    <option name="totallyTimeSpent" value="116100000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -982,25 +981,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/linkedlist_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="165" column="0" lean-forward="true" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/linkedlist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="126" column="92" lean-forward="false" selection-start-line="126" selection-start-column="92" selection-end-line="126" selection-end-column="92" />
+        <state relative-caret-position="160">
+          <caret line="111" column="67" lean-forward="false" selection-start-line="111" selection-start-column="67" selection-end-line="111" selection-end-column="67" />
           <folding>
             <element signature="e#1085#1982#0" expanded="false" />
-            <element signature="e#2016#2106#0" expanded="false" />
             <element signature="e#2138#2728#0" expanded="false" />
-            <element signature="e#2773#3489#0" expanded="false" />
-            <element signature="e#3543#5002#0" expanded="false" />
-            <element signature="e#6166#6727#0" expanded="false" />
-            <element signature="e#6766#7328#0" expanded="false" />
-            <element signature="e#8504#10679#0" expanded="false" />
+            <element signature="e#6888#7449#0" expanded="false" />
+            <element signature="e#7488#8050#0" expanded="false" />
+            <element signature="e#8089#9187#0" expanded="false" />
+            <element signature="e#9226#11401#0" expanded="false" />
           </folding>
         </state>
       </provider>

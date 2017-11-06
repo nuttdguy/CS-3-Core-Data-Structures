@@ -79,13 +79,13 @@ class LinkedList(object):
         if not (0 <= index < self.size):
             raise ValueError('List index out of range: {}'.format(index))
         # TODO: Find the node at the given index and return its data
-        node = self.head
-        data = node.data
-        while index is not 0:
-            node = node.next
-            data = node.data
-            index -= 1
-        return data
+        node = self.head                    # O(1) set node to head
+        data = node.data                    # O(1) get the data from node, for case index is 0
+        while index is not 0:               # O(N) iterate through until index equals 0
+            node = node.next                # O(1) get the next node
+            data = node.data                # O(1) get the data from that node
+            index -= 1                      # O(N) decrease index counter by minus one
+        return data                         # return the data found at the given index
 
     def insert_at_index(self, index, item):
         """Insert the given item at the given index in this linked list, or
@@ -97,19 +97,19 @@ class LinkedList(object):
             raise ValueError('List index out of range: {}'.format(index))
         # TODO: Find the node before the given index and insert item after it
 
-        if self.is_empty():
-            self.append(item)
-        elif index is 0:
-            self.prepend(item)
+        if self.is_empty():                                 # O(1) check it list is empty
+            self.append(item)                               # O(1) append the item since its empty
+        elif index is 0:                                    # O(1) check the index is 0
+            self.prepend(item)                              # O(1) prepend, to insert before existing node
         else:
-            node_before = self.get_at_index(index - 1)      # get the item before the index passed in
-            current_node = self.head                        # set the node to the head
-            for i in range(self.size):                      # iterate through the current size
-                if current_node.data == node_before:        # at index, means we are at the position to append
-                    self.append(item)                       # append the new item, uses existing append method
-                    self.tail = current_node.next           # set the tail to the next
+            node_before = self.get_at_index(index - 1)      # O(N) get the item before the index passed in
+            current_node = self.head                        # O(1) set the node to the head
+            for i in range(self.size):                      # O(N) iterate through the current size
+                if current_node.data == node_before:        # O(N) at index, means we are at the position to append
+                    self.append(item)                       # O(1) append the new item, uses existing append method
+                    self.tail = current_node.next           # O(1) set the tail to the next
                     return                                  # return, no need to continue
-                current_node = current_node.next            # set current node to the next node
+                current_node = current_node.next            # O(1) set current node to the next node
 
     def replace(self, old_item, new_item):
         """Replace the given old_item in this linked list with given new_item
@@ -118,12 +118,12 @@ class LinkedList(object):
         Worst case running time: ??? under what conditions? [TODO]"""
         # TODO: Find the node containing the given old_item and replace its
         # data with new_item, without creating a new node object
-        current_node = self.head                        # set the node to the head (A)
-        while current_node is not None:                 # iterate through list
-            if current_node.data == old_item:           # check old data is equal to new item
-                current_node.data = new_item            # set old item to new item when found
+        current_node = self.head                        # O(1) set the node to the head (A)
+        while current_node is not None:                 # O(N) iterate through list
+            if current_node.data == old_item:           # O(N) check old data is equal to new item
+                current_node.data = new_item            # O(1) set old item to new item when found
                 return                                  # return, item replaced - do not need to continue
-            current_node = current_node.next            # when no match, move to next node in list
+            current_node = current_node.next            # O(1) when no match, move to next node in list
         raise ValueError                                # item was not found, raise an error
 
     def append(self, item):
