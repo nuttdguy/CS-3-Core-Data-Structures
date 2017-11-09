@@ -1,6 +1,7 @@
 #!python
 
-from linkedlist import LinkedList
+# from linkedlist import LinkedList
+from source.linkedlist import LinkedList
 
 
 # Implement LinkedQueue below, then change the assignment at the bottom
@@ -22,32 +23,37 @@ class LinkedQueue(object):
     def is_empty(self):
         """Return True if this queue is empty, or False otherwise."""
         # Check if empty
-        return self.is_empty()
+        return self.list.is_empty()
 
     def length(self):
         """Return the number of items in this queue."""
         # Count number of items
-        count = 0
-        if self.is_empty() is not False:
-            while self.list is not None:
-                count += 1
-        return count
+        return self.list.size
 
     def enqueue(self, item):
         """Insert the given item at the back of this queue.
         Running time: O(???) – Why? [TODO]"""
-        # TODO: Insert given item
+        # Insert given item
+        self.list.prepend(item)
 
     def front(self):
         """Return the item at the front of this queue without removing it,
         or None if this queue is empty."""
-        # TODO: Return front item, if any
+        # Return front item, if any
+        if self.list.is_empty():
+            return None
+        return self.list.tail.data
 
     def dequeue(self):
         """Remove and return the item at the front of this queue,
         or raise ValueError if this queue is empty.
         Running time: O(???) – Why? [TODO]"""
         # TODO: Remove and return front item, if any
+        if self.is_empty():
+            raise ValueError
+        node = self.list.tail
+        self.list.delete(node.data)
+        return node.data
 
 
 # Implement ArrayQueue below, then change the assignment at the bottom

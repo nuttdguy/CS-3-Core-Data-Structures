@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e92044ad-fd47-4863-8346-25818903f5a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Class4.md" afterPath="$PROJECT_DIR$/Class4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReadMe.md" afterPath="$PROJECT_DIR$/ReadMe.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/linkedlist.py" afterPath="$PROJECT_DIR$/source/linkedlist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/linkedlist_test.py" afterPath="$PROJECT_DIR$/source/linkedlist_test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/queue.py" afterPath="$PROJECT_DIR$/source/queue.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/queue_test.py" afterPath="$PROJECT_DIR$/source/queue_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/strings.py" afterPath="$PROJECT_DIR$/source/strings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/strings_test.py" afterPath="$PROJECT_DIR$/source/strings_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stack.py" afterPath="$PROJECT_DIR$/source/stack.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teleo/cost_script.py" afterPath="$PROJECT_DIR$/teleo/cost_script.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,7 +29,7 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$palindromes.coverage" NAME="palindromes Coverage Results" MODIFIED="1509423057711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_init_with_list.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_init_with_list Coverage Results" MODIFIED="1509684930828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_find_index_with_matching_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_find_index_with_matching_patterns Coverage Results" MODIFIED="1509941391394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$cost_script.coverage" NAME="cost_script Coverage Results" MODIFIED="1509953084452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teleo" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$cost_script.coverage" NAME="cost_script Coverage Results" MODIFIED="1509996692203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teleo" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_recursion_test_RecursionTest.coverage" NAME="Unittests for recursion_test.RecursionTest Coverage Results" MODIFIED="1509125127795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesDecodeTest_test_decode_decimal.coverage" NAME="Unittests for bases_test.BasesDecodeTest.test_decode_decimal Coverage Results" MODIFIED="1509083796148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$scratch_pad.coverage" NAME="scratch_pad Coverage Results" MODIFIED="1509051268990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -47,7 +45,7 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing Coverage Results" MODIFIED="1509418170315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$strings.coverage" NAME="strings Coverage Results" MODIFIED="1509500048272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_whitespace_and_mixed_casing.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace_and_mixed_casing Coverage Results" MODIFIED="1509408545395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest_test_init.coverage" NAME="Unittests for queue_test.QueueTest.test_init Coverage Results" MODIFIED="1509939124663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest_test_init.coverage" NAME="Unittests for queue_test.QueueTest.test_init Coverage Results" MODIFIED="1510114856008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing_and_punctuation.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation Coverage Results" MODIFIED="1509423894237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_1234.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_1234 Coverage Results" MODIFIED="1509080747635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$bases.coverage" NAME="bases Coverage Results" MODIFIED="1509053432483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
@@ -62,11 +60,12 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_append.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_append Coverage Results" MODIFIED="1509927075501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_into_1010.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_into_1010 Coverage Results" MODIFIED="1509083869644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_find_index_with_complex_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_find_index_with_complex_patterns Coverage Results" MODIFIED="1509944921546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest.coverage" NAME="Unittests for queue_test.QueueTest Coverage Results" MODIFIED="1510200200605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesConvertTest_test_convert_hexadecimal_to_decimal.coverage" NAME="Unittests for bases_test.BasesConvertTest.test_convert_hexadecimal_to_decimal Coverage Results" MODIFIED="1509082473757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_in_recursion_test_py.coverage" NAME="Unittests in recursion_test.py Coverage Results" MODIFIED="1509070792783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest_test_linear_search_with_items_not_in_list.coverage" NAME="Unittests for search_test.SearchTest.test_linear_search_with_items_not_in_list Coverage Results" MODIFIED="1509120994004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesDecodeTest_test_decode_101101.coverage" NAME="Unittests for bases_test.BasesDecodeTest.test_decode_101101 Coverage Results" MODIFIED="1509076422060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$queue.coverage" NAME="queue Coverage Results" MODIFIED="1509938816533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$queue.coverage" NAME="queue Coverage Results" MODIFIED="1510033643298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_replace.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_replace Coverage Results" MODIFIED="1509936839545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest.coverage" NAME="Unittests for linkedlist_test.LinkedListTest Coverage Results" MODIFIED="1509938016015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_in_palindromes_test_py.coverage" NAME="Unittests in palindromes_test.py Coverage Results" MODIFIED="1509408597787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
@@ -80,72 +79,33 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_find_all_indexes_with_matching_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_find_all_indexes_with_matching_patterns Coverage Results" MODIFIED="1509578322490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest.coverage" NAME="Unittests for strings_test.StringsTest Coverage Results" MODIFIED="1509946640525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_get_at_index.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_get_at_index Coverage Results" MODIFIED="1509686056177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest_test_front.coverage" NAME="Unittests for queue_test.QueueTest.test_front Coverage Results" MODIFIED="1510114831163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_whitespace.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace Coverage Results" MODIFIED="1509418179641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_length.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_length Coverage Results" MODIFIED="1509684963558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesConvertTest.coverage" NAME="Unittests for bases_test.BasesConvertTest Coverage Results" MODIFIED="1509083347066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest_test_init_with_list.coverage" NAME="Unittests for queue_test.QueueTest.test_init_with_list Coverage Results" MODIFIED="1510034342029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_find_all_indexes_with_complex_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_find_all_indexes_with_complex_patterns Coverage Results" MODIFIED="1509944441743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesConvertTest_test_convert_hexadecimal_to_binary.coverage" NAME="Unittests for bases_test.BasesConvertTest.test_convert_hexadecimal_to_binary Coverage Results" MODIFIED="1509084052633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest_test_binary_search_with_items_in_list.coverage" NAME="Unittests for search_test.SearchTest.test_binary_search_with_items_in_list Coverage Results" MODIFIED="1509397002537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes.coverage" NAME="Unittests for palindromes_test.TestPalindromes Coverage Results" MODIFIED="1509423809447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest_test_enqueue.coverage" NAME="Unittests for queue_test.QueueTest.test_enqueue Coverage Results" MODIFIED="1510034907944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_contains_with_non_matching_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_contains_with_non_matching_patterns Coverage Results" MODIFIED="1509493849502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest.coverage" NAME="Unittests for bases_test.BasesEncodeTest Coverage Results" MODIFIED="1509083891346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest_test_length.coverage" NAME="Unittests for queue_test.QueueTest.test_length Coverage Results" MODIFIED="1510034891575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mirrored_strings.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mirrored_strings Coverage Results" MODIFIED="1509418107479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_binary.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_binary Coverage Results" MODIFIED="1509079804135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1509069731560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_hexadecimal.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_hexadecimal Coverage Results" MODIFIED="1509080739258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5349887">
+    <splitter split-orientation="horizontal" split-proportion="0.5464576">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Class5.md" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Class5.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="272">
-                    <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-                    <folding />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="normalize.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/teleo/normalize.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="479">
-                  <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="44" selection-end-column="49" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="cost_script.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/teleo/cost_script.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="strings_test.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/source/strings_test.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1815">
-                  <caret line="120" column="78" lean-forward="false" selection-start-line="120" selection-start-column="78" selection-end-line="120" selection-end-column="78" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="linkedlist.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="linkedlist.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/source/linkedlist.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="185">
-                  <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+                <state relative-caret-position="-434">
+                  <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
                   <folding>
                     <element signature="e#1085#1982#0" expanded="false" />
                     <element signature="e#2138#2728#0" expanded="false" />
@@ -154,26 +114,28 @@
               </provider>
             </entry>
           </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="queue_test.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/source/queue_test.py">
+          <file leaf-file-name="queue.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/source/queue.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="513">
-                  <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+                <state relative-caret-position="319">
+                  <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="route-costs-100.txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/teleo/route-costs-100.txt">
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="queue_test.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/source/queue_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
+                <state relative-caret-position="310">
+                  <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#10#40#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -209,15 +171,16 @@
         <option value="$PROJECT_DIR$/source/palindromes.py" />
         <option value="$PROJECT_DIR$/source/search.py" />
         <option value="$PROJECT_DIR$/teleo/normalize.py" />
-        <option value="$PROJECT_DIR$/teleo/cost_script.py" />
         <option value="$PROJECT_DIR$/ReadMe.md" />
         <option value="$PROJECT_DIR$/Class4.md" />
         <option value="$PROJECT_DIR$/source/strings_test.py" />
         <option value="$PROJECT_DIR$/source/strings.py" />
+        <option value="$PROJECT_DIR$/source/linkedlist_test.py" />
+        <option value="$PROJECT_DIR$/teleo/cost_script.py" />
+        <option value="$PROJECT_DIR$/source/linkedlist.py" />
+        <option value="$PROJECT_DIR$/source/stack.py" />
         <option value="$PROJECT_DIR$/source/queue_test.py" />
         <option value="$PROJECT_DIR$/source/queue.py" />
-        <option value="$PROJECT_DIR$/source/linkedlist_test.py" />
-        <option value="$PROJECT_DIR$/source/linkedlist.py" />
       </list>
     </option>
   </component>
@@ -228,9 +191,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1773" />
-    <option name="y" value="23" />
-    <option name="width" value="2425" />
+    <option name="x" value="1685" />
+    <option name="y" value="31" />
+    <option name="width" value="1981" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
@@ -248,7 +211,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,18 +225,12 @@
               <item name="CS-3-Core-Data-Structures" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CS-3-Core-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS-3-Core-Data-Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="teleo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,8 +262,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cost_script">
-    <configuration name="Unittests for strings_test.StringsTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for queue_test.QueueTest">
+    <configuration name="Unittests for queue_test.QueueTest" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -317,38 +275,8 @@
       <module name="CS-3-Core-Data-Structures" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;strings_test.StringsTest&quot;" />
+      <option name="_new_target" value="&quot;queue_test.QueueTest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="Unittests for strings_test.StringsTest.test_find_index_with_complex_patterns" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CS-3-Core-Data-Structures" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;strings_test.StringsTest.test_find_index_with_complex_patterns&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="Unittests in strings_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CS-3-Core-Data-Structures" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/source/strings_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -479,58 +407,6 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="cost_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teleo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CS-3-Core-Data-Structures" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teleo/cost_script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="normalize" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teleo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CS-3-Core-Data-Structures" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teleo/normalize.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for strings_test.StringsTest" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in strings_test.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for strings_test.StringsTest.test_find_index_with_complex_patterns" />
-      <item index="3" class="java.lang.String" itemvalue="Python.normalize" />
-      <item index="4" class="java.lang.String" itemvalue="Python.cost_script" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.cost_script" />
-        <item index="1" class="java.lang.String" itemvalue="Python.normalize" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for strings_test.StringsTest" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in strings_test.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for strings_test.StringsTest.test_find_index_with_complex_patterns" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -558,44 +434,50 @@
       <workItem from="1509577701880" duration="5107000" />
       <workItem from="1509682852216" duration="7436000" />
       <workItem from="1509728530469" duration="6488000" />
-      <workItem from="1509910049231" duration="25097000" />
+      <workItem from="1509910049231" duration="25348000" />
+      <workItem from="1509991250827" duration="6777000" />
+      <workItem from="1510013189962" duration="3444000" />
+      <workItem from="1510114571276" duration="756000" />
+      <workItem from="1510164080775" duration="423000" />
+      <workItem from="1510170291062" duration="3000" />
+      <workItem from="1510188627285" duration="1193000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 15m 36s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 10h 07m 40s.xml">
+      <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 29m 34s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 19h 49m 32s.xml">
+      <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 30m 43s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 19h 56m 05s.xml">
+      <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 32m 06s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 19h 57m 08s.xml">
+      <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 33m 08s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 19h 58m 07s.xml">
+      <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 34m 24s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 01m 01s.xml">
+      <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 35m 14s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 01m 06s.xml">
+      <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 35m 42s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 03m 20s.xml">
+      <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_strings_test_StringsTest - 2017.11.05 at 21h 37m 20s.xml">
-      <configuration name="Unittests for strings_test.StringsTest" configurationId="tests" />
+    <history-entry file="Unittests_for_queue_test_QueueTest_test_front - 2017.11.07 at 20h 20m 31s.xml">
+      <configuration name="Unittests for queue_test.QueueTest.test_front" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_strings_test_py - 2017.11.05 at 21h 11m 57s.xml">
-      <configuration name="Unittests in strings_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_queue_test_QueueTest_test_init - 2017.11.07 at 20h 20m 56s.xml">
+      <configuration name="Unittests for queue_test.QueueTest.test_init" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129901000" />
+    <option name="totallyTimeSpent" value="142748000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -607,7 +489,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1773" y="23" width="2425" height="1027" extended-state="0" />
+    <frame x="1685" y="31" width="1981" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -617,21 +499,21 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28004292" sideWeight="0.5018747" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2585837" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585837" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19849785" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19849785" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12715065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11191336" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31330472" sideWeight="0.49812534" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31330472" sideWeight="0.49812534" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -656,6 +538,11 @@
           <line>2</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/queue_test.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -664,24 +551,15 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="131" />
+      <option name="time" value="142" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/palindromes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="33" column="49" lean-forward="false" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -735,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,22 +791,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class5.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="531">
           <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="65" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -942,7 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -950,7 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="36" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -958,7 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -966,7 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="3700" column="8" lean-forward="false" selection-start-line="3700" selection-start-column="8" selection-end-line="3700" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -974,15 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teleo/normalize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="44" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -991,7 +838,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="544">
             <caret line="32" column="63" lean-forward="true" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1002,17 +848,8 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="459">
             <caret line="27" column="66" lean-forward="true" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teleo/cost_script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1020,23 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teleo/route-costs-100.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/queue_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1044,34 +864,80 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-830">
           <caret line="102" column="27" lean-forward="false" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/strings_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
+        <state relative-caret-position="666">
           <caret line="120" column="78" lean-forward="false" selection-start-line="120" selection-start-column="78" selection-end-line="120" selection-end-column="78" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teleo/route-costs-100.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teleo/normalize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teleo/cost_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/queue_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#10#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/linkedlist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+        <state relative-caret-position="-434">
+          <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
           <folding>
             <element signature="e#1085#1982#0" expanded="false" />
             <element signature="e#2138#2728#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>

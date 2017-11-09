@@ -1,6 +1,6 @@
 #!python
 
-from linkedlist import LinkedList
+from source.linkedlist import LinkedList
 
 
 # Implement LinkedStack below, then change the assignment at the bottom

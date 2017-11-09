@@ -78,7 +78,7 @@ class LinkedList(object):
         # Check if the given index is out of range and if so raise an error
         if not (0 <= index < self.size):
             raise ValueError('List index out of range: {}'.format(index))
-        # TODO: Find the node at the given index and return its data
+        # Find the node at the given index and return its data
         node = self.head                    # O(1) set node to head
         data = node.data                    # O(1) get the data from node, for case index is 0
         while index is not 0:               # O(N) iterate through until index equals 0
@@ -86,7 +86,6 @@ class LinkedList(object):
             data = node.data                # O(1) get the data from that node
             index -= 1                      # O(N) decrease index counter by minus one
         return data                         # return the data found at the given index
-
 
     def insert_at_index(self, index, item):
         """Insert the given item at the given index in this linked list, or
@@ -96,7 +95,7 @@ class LinkedList(object):
         # Check if the given index is out of range and if so raise an error
         if not (0 <= index <= self.size):
             raise ValueError('List index out of range: {}'.format(index))
-        # TODO: Find the node before the given index and insert item after it
+        # Find the node before the given index and insert item after it
 
         if self.is_empty():                                 # O(1) check it list is empty
             self.append(item)                               # O(1) append the item since its empty
@@ -117,7 +116,7 @@ class LinkedList(object):
         using the same node, or raise ValueError if old_item is not found.
         Best case running time: ??? under what conditions? [TODO]
         Worst case running time: ??? under what conditions? [TODO]"""
-        # TODO: Find the node containing the given old_item and replace its
+        # Find the node containing the given old_item and replace its
         # data with new_item, without creating a new node object
         current_node = self.head                        # O(1) set the node to the head (A)
         while current_node is not None:                 # O(N) iterate through list
