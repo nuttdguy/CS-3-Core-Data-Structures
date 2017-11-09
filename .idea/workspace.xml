@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e92044ad-fd47-4863-8346-25818903f5a2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/linkedlist.py" afterPath="$PROJECT_DIR$/source/linkedlist.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/queue.py" afterPath="$PROJECT_DIR$/source/queue.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/queue_test.py" afterPath="$PROJECT_DIR$/source/queue_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stack.py" afterPath="$PROJECT_DIR$/source/stack.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teleo/cost_script.py" afterPath="$PROJECT_DIR$/teleo/cost_script.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,7 +56,7 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_append.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_append Coverage Results" MODIFIED="1509927075501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_into_1010.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_into_1010 Coverage Results" MODIFIED="1509083869644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_find_index_with_complex_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_find_index_with_complex_patterns Coverage Results" MODIFIED="1509944921546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest.coverage" NAME="Unittests for queue_test.QueueTest Coverage Results" MODIFIED="1510200200605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest.coverage" NAME="Unittests for queue_test.QueueTest Coverage Results" MODIFIED="1510202651556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesConvertTest_test_convert_hexadecimal_to_decimal.coverage" NAME="Unittests for bases_test.BasesConvertTest.test_convert_hexadecimal_to_decimal Coverage Results" MODIFIED="1509082473757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_in_recursion_test_py.coverage" NAME="Unittests in recursion_test.py Coverage Results" MODIFIED="1509070792783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest_test_linear_search_with_items_not_in_list.coverage" NAME="Unittests for search_test.SearchTest.test_linear_search_with_items_not_in_list Coverage Results" MODIFIED="1509120994004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
@@ -117,8 +113,8 @@
           <file leaf-file-name="queue.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/queue.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="319">
-                  <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+                <state relative-caret-position="613">
+                  <caret line="109" column="27" lean-forward="false" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
                   <folding />
                 </state>
               </provider>
@@ -131,8 +127,8 @@
           <file leaf-file-name="queue_test.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/queue_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="310">
-                  <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+                <state relative-caret-position="440">
+                  <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="67" selection-end-column="23" />
                   <folding>
                     <element signature="e#10#40#0" expanded="true" />
                   </folding>
@@ -179,8 +175,8 @@
         <option value="$PROJECT_DIR$/teleo/cost_script.py" />
         <option value="$PROJECT_DIR$/source/linkedlist.py" />
         <option value="$PROJECT_DIR$/source/stack.py" />
-        <option value="$PROJECT_DIR$/source/queue_test.py" />
         <option value="$PROJECT_DIR$/source/queue.py" />
+        <option value="$PROJECT_DIR$/source/queue_test.py" />
       </list>
     </option>
   </component>
@@ -440,44 +436,44 @@
       <workItem from="1510114571276" duration="756000" />
       <workItem from="1510164080775" duration="423000" />
       <workItem from="1510170291062" duration="3000" />
-      <workItem from="1510188627285" duration="1193000" />
+      <workItem from="1510188627285" duration="3613000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 10h 07m 40s.xml">
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 40m 32s.xml">
       <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 19h 49m 32s.xml">
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 40m 53s.xml">
       <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 19h 56m 05s.xml">
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 41m 30s.xml">
       <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 19h 57m 08s.xml">
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 41m 36s.xml">
       <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 19h 58m 07s.xml">
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 41m 48s.xml">
       <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 01m 01s.xml">
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 41m 52s.xml">
       <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 01m 06s.xml">
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 43m 19s.xml">
       <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 03m 20s.xml">
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 43m 21s.xml">
       <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_queue_test_QueueTest_test_front - 2017.11.07 at 20h 20m 31s.xml">
-      <configuration name="Unittests for queue_test.QueueTest.test_front" configurationId="tests" />
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 43m 44s.xml">
+      <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_queue_test_QueueTest_test_init - 2017.11.07 at 20h 20m 56s.xml">
-      <configuration name="Unittests for queue_test.QueueTest.test_init" configurationId="tests" />
+    <history-entry file="Unittests_for_queue_test_QueueTest - 2017.11.08 at 20h 44m 11s.xml">
+      <configuration name="Unittests for queue_test.QueueTest" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142748000" />
+    <option name="totallyTimeSpent" value="145168000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -500,7 +496,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28004292" sideWeight="0.5018747" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585837" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585837" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19849785" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -541,7 +537,7 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/source/queue_test.py</url>
           <line>59</line>
-          <option name="timeStamp" value="141" />
+          <option name="timeStamp" value="148" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -551,7 +547,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="142" />
+      <option name="time" value="149" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -912,16 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/queue_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#10#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/linkedlist.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-434">
@@ -935,9 +921,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/queue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        <state relative-caret-position="613">
+          <caret line="109" column="27" lean-forward="false" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/queue_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="67" selection-end-column="23" />
+          <folding>
+            <element signature="e#10#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
