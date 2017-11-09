@@ -24,7 +24,7 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_search_test_SearchTest.coverage" NAME="Unittests for search_test.SearchTest Coverage Results" MODIFIED="1509396625368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$palindromes.coverage" NAME="palindromes Coverage Results" MODIFIED="1509423057711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_init_with_list.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_init_with_list Coverage Results" MODIFIED="1509684930828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_stack_test_StackTest_test_push.coverage" NAME="Unittests for stack_test.StackTest.test_push Coverage Results" MODIFIED="1510204873495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_stack_test_StackTest_test_push.coverage" NAME="Unittests for stack_test.StackTest.test_push Coverage Results" MODIFIED="1510206235328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_find_index_with_matching_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_find_index_with_matching_patterns Coverage Results" MODIFIED="1509941391394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_stack_test_StackTest_test_init_with_list.coverage" NAME="Unittests for stack_test.StackTest.test_init_with_list Coverage Results" MODIFIED="1510203910712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$cost_script.coverage" NAME="cost_script Coverage Results" MODIFIED="1509996692203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teleo" />
@@ -47,7 +47,7 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest_test_init.coverage" NAME="Unittests for queue_test.QueueTest.test_init Coverage Results" MODIFIED="1510114856008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mixed_casing_and_punctuation.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mixed_casing_and_punctuation Coverage Results" MODIFIED="1509423894237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_1234.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_1234 Coverage Results" MODIFIED="1509080747635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_stack_test_StackTest_test_length.coverage" NAME="Unittests for stack_test.StackTest.test_length Coverage Results" MODIFIED="1510204855543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_stack_test_StackTest_test_length.coverage" NAME="Unittests for stack_test.StackTest.test_length Coverage Results" MODIFIED="1510206106898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$bases.coverage" NAME="bases Coverage Results" MODIFIED="1509053432483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_non_palindromic_strings.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_non_palindromic_strings Coverage Results" MODIFIED="1509422364452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_recursion_test_RecursionTest_test_factorial_with_small_integers.coverage" NAME="Unittests for recursion_test.RecursionTest.test_factorial_with_small_integers Coverage Results" MODIFIED="1509070449943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
@@ -56,6 +56,7 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_items.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_items Coverage Results" MODIFIED="1509684951688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesDecodeTest_test_decode_10.coverage" NAME="Unittests for bases_test.BasesDecodeTest.test_decode_10 Coverage Results" MODIFIED="1509077756905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesConvertTest_test_convert_decimal_to_hexadecimal.coverage" NAME="Unittests for bases_test.BasesConvertTest.test_convert_decimal_to_hexadecimal Coverage Results" MODIFIED="1509083371223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_stack_test_StackTest.coverage" NAME="Unittests for stack_test.StackTest Coverage Results" MODIFIED="1510206270175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_whitespace_and_punctuation.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace_and_punctuation Coverage Results" MODIFIED="1509422599259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_append.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_append Coverage Results" MODIFIED="1509927075501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_into_1010.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_into_1010 Coverage Results" MODIFIED="1509083869644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
@@ -79,7 +80,7 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_find_all_indexes_with_matching_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_find_all_indexes_with_matching_patterns Coverage Results" MODIFIED="1509578322490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest.coverage" NAME="Unittests for strings_test.StringsTest Coverage Results" MODIFIED="1509946640525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_get_at_index.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_get_at_index Coverage Results" MODIFIED="1509686056177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_in_stack_test_py.coverage" NAME="Unittests in stack_test.py Coverage Results" MODIFIED="1510205160748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_in_stack_test_py.coverage" NAME="Unittests in stack_test.py Coverage Results" MODIFIED="1510206245753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest_test_front.coverage" NAME="Unittests for queue_test.QueueTest.test_front Coverage Results" MODIFIED="1510114831163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_whitespace.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace Coverage Results" MODIFIED="1509418179641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_length.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_length Coverage Results" MODIFIED="1509684963558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
@@ -118,8 +119,8 @@
           <file leaf-file-name="stack.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/stack.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="457">
-                  <caret line="54" column="28" lean-forward="false" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+                <state relative-caret-position="367">
+                  <caret line="112" column="20" lean-forward="false" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
@@ -132,8 +133,8 @@
           <file leaf-file-name="stack_test.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/stack_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+                <state relative-caret-position="545">
+                  <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -262,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in stack_test.py">
+  <component name="RunManager" selected="Python tests.Unittests for stack_test.StackTest">
     <configuration name="Unittests for queue_test.QueueTest" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,7 +279,7 @@
       <option name="_new_target" value="&quot;queue_test.QueueTest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for stack_test.StackTest.test_init_with_list" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for stack_test.StackTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -290,7 +291,7 @@
       <module name="CS-3-Core-Data-Structures" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;stack_test.StackTest.test_init_with_list&quot;" />
+      <option name="_new_target" value="&quot;stack_test.StackTest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Unittests for stack_test.StackTest.test_length" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -484,19 +485,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for queue_test.QueueTest" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest.test_init_with_list" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest.test_length" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest.test_push" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest.test_peek" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in stack_test.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest.test_length" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest.test_push" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest.test_peek" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in stack_test.py" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in stack_test.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest.test_peek" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in stack_test.py" />
         <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest.test_push" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest.test_length" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest.test_init_with_list" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for stack_test.StackTest.test_peek" />
       </list>
     </recent_temporary>
   </component>
@@ -532,44 +533,44 @@
       <workItem from="1510114571276" duration="756000" />
       <workItem from="1510164080775" duration="423000" />
       <workItem from="1510170291062" duration="3000" />
-      <workItem from="1510188627285" duration="6042000" />
+      <workItem from="1510188627285" duration="7172000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_stack_test_StackTest_test_peek - 2017.11.08 at 21h 21m 27s.xml">
-      <configuration name="Unittests for stack_test.StackTest.test_peek" configurationId="tests" />
+    <history-entry file="Unittests_for_stack_test_StackTest - 2017.11.08 at 21h 44m 55s.xml">
+      <configuration name="Unittests for stack_test.StackTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_stack_test_py - 2017.11.08 at 21h 21m 38s.xml">
-      <configuration name="Unittests in stack_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_stack_test_StackTest_test_length - 2017.11.08 at 21h 41m 25s.xml">
+      <configuration name="Unittests for stack_test.StackTest.test_length" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_stack_test_py - 2017.11.08 at 21h 23m 04s.xml">
-      <configuration name="Unittests in stack_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_stack_test_StackTest_test_length - 2017.11.08 at 21h 41m 47s.xml">
+      <configuration name="Unittests for stack_test.StackTest.test_length" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_stack_test_py - 2017.11.08 at 21h 23m 07s.xml">
-      <configuration name="Unittests in stack_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_stack_test_StackTest_test_push - 2017.11.08 at 21h 41m 59s.xml">
+      <configuration name="Unittests for stack_test.StackTest.test_push" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_stack_test_py - 2017.11.08 at 21h 23m 08s.xml">
-      <configuration name="Unittests in stack_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_stack_test_StackTest_test_push - 2017.11.08 at 21h 42m 33s.xml">
+      <configuration name="Unittests for stack_test.StackTest.test_push" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_stack_test_py - 2017.11.08 at 21h 23m 44s.xml">
-      <configuration name="Unittests in stack_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_stack_test_StackTest_test_push - 2017.11.08 at 21h 43m 35s.xml">
+      <configuration name="Unittests for stack_test.StackTest.test_push" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_stack_test_py - 2017.11.08 at 21h 24m 06s.xml">
-      <configuration name="Unittests in stack_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_stack_test_StackTest_test_push - 2017.11.08 at 21h 43m 39s.xml">
+      <configuration name="Unittests for stack_test.StackTest.test_push" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_stack_test_py - 2017.11.08 at 21h 24m 15s.xml">
-      <configuration name="Unittests in stack_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_stack_test_StackTest_test_push - 2017.11.08 at 21h 43m 48s.xml">
+      <configuration name="Unittests for stack_test.StackTest.test_push" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_stack_test_py - 2017.11.08 at 21h 25m 42s.xml">
-      <configuration name="Unittests in stack_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_stack_test_StackTest_test_push - 2017.11.08 at 21h 43m 55s.xml">
+      <configuration name="Unittests for stack_test.StackTest.test_push" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_stack_test_py - 2017.11.08 at 21h 26m 01s.xml">
+    <history-entry file="Unittests_in_stack_test_py - 2017.11.08 at 21h 44m 05s.xml">
       <configuration name="Unittests in stack_test.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147597000" />
+    <option name="totallyTimeSpent" value="148727000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -592,7 +593,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28004292" sideWeight="0.5018747" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585837" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2585837" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19849785" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -605,7 +606,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31330472" sideWeight="0.49812534" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31330472" sideWeight="0.49812534" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -632,8 +633,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/source/stack_test.py</url>
-          <line>59</line>
-          <option name="timeStamp" value="156" />
+          <line>53</line>
+          <option name="timeStamp" value="161" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -643,7 +644,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="157" />
+      <option name="time" value="162" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1021,16 +1022,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/stack_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+        <state relative-caret-position="545">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/stack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="54" column="28" lean-forward="false" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+        <state relative-caret-position="367">
+          <caret line="112" column="20" lean-forward="false" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
           <folding />
         </state>
       </provider>
