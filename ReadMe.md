@@ -15,8 +15,8 @@
 |   4   |    Monday, October 30  | [Arrays & Linked Lists](Class4.md)         |                     |
 |   5   | Wednesday, November 1  | [Lists, Stacks & Queues](Class5.md)        |
 |   6   |    Friday, November 3  | [Call Routing Project](Class6.md)          |
-|   7   |    Monday, November 6  | Map & Hash Table              |
-|   8   | Wednesday, November 8  | Set & Circular Buffer         |
+|   7   |    Monday, November 6  | [Maps & Hash Tables](Class7.md)            |
+|   8   | Wednesday, November 8  | [Sets & Circular Buffers](Class8.md)       |
 |   9   |    Friday, November 10 | Trees                         |
 |  10   |    Monday, November 13 | Tree Traversals               |
 |  11   | Wednesday, November 15 | Iterative Sorting Algorithms  |
