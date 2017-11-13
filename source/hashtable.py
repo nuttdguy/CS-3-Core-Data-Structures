@@ -26,8 +26,8 @@ class HashTable(object):
     def load_factor(self):
         """Return the load factor, the ratio of number of entries to buckets.
         Best and worst case running time: ??? under what conditions? [TODO]"""
-        # TODO: Calculate load factor
-        return self.size / len(self.buckets)
+        # Calculate load factor
+        return self.size / len(self.buckets)        # CALCULATE CURRENT LOAD FACTOR
 
     def keys(self):
         """Return a list of all keys in this hash table.
@@ -111,18 +111,14 @@ class HashTable(object):
             # In this case, the given key's value is being updated
             # Remove the old key-value entry from the bucket first
             bucket.delete(entry)
+            self.size -= 1              # REDUCE SIZE AFTER DELETE
         # Insert the new key-value entry into the bucket in either case
         bucket.append((key, value))
-        # TODO: Check if the load factor exceeds a threshold such as 0.75
+        self.size += 1                  # INCREASE SIZE AFTER SET / APPENDING BUCKET
+        # Check if the load factor exceeds a threshold such as 0.75
         if self.load_factor() > .75:
-            pass
-        # TODO: If so, automatically resize to reduce the load factor
-        copyBucket = [LinkedList() for (i, v) in self.items()]
-        copyBucket.__len__()
-        # CREATE NEW EMPTY BUCKET
-        size = len(self.buckets) * 2
-        newBucket = [LinkedList() for i in range(size)]
-        newBucket.__len__()
+            # If so, automatically resize to reduce the load factor
+            self._resize()              # RESIZE WHEN LF EXCEEDS SET LOAD
 
     def delete(self, key):
         """Delete the given key and its associated value, or raise KeyError.
@@ -136,6 +132,7 @@ class HashTable(object):
         if entry is not None:  # Found
             # Remove the key-value entry from the bucket
             bucket.delete(entry)
+            self.size -= 1                  # REDUCE SIZE AFTER DELETE
         else:  # Not found
             raise KeyError('Key not found: {}'.format(key))
 
@@ -147,17 +144,22 @@ class HashTable(object):
         Best and worst case space usage: ??? what uses this memory? [TODO]"""
         # If unspecified, choose new size dynamically based on current size
         if new_size is None:
-            new_size = len(self.buckets) * 2  # Double size
+            new_size = int(len(self.buckets) * 2)  # Double size
         # Option to reduce size if buckets are sparsely filled (low load factor)
         elif new_size is 0:
-            new_size = len(self.buckets) / 2  # Half size
-        # TODO: Get a list to temporarily hold all current key-value entries
-        # ...
-        # TODO: Create a new list of new_size total empty linked list buckets
-        # ...
-        # TODO: Insert each key-value entry into the new list of buckets,
+            new_size = int(len(self.buckets) / 2)  # Half size
+
+        self.size = 0                           # RESET SIZE OF HASH TABLE
+        # Get a list to temporarily hold all current key-value entries
+        temp_list = self.items()                # GET EVERY BUCKET
+        # Create a new list of new_size total empty linked list buckets
+        self.buckets = [LinkedList() for i in range(new_size)]      # CREATE HASH TABLE OF SIZE-X
+        # Insert each key-value entry into the new list of buckets,
         # which will rehash them into a new bucket index based on the new size
-        # ...
+        for key, value in temp_list:            # GET THE KEY, VALUE OF EVERY BUCKET
+            self.set(key, value)                # SET THE KEY, VALUE FOR NEW BUCKET
+
+
 
 
 def test_hash_table():

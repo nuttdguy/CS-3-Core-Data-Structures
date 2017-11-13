@@ -108,7 +108,7 @@ class LinkedList(object):
                 if current_node.data == node_before:        # O(N) at index, means we are at the position to append
                     self.append(item)                       # O(1) append the new item, uses existing append method
                     self.tail = current_node.next           # O(1) set the tail to the next
-                    return                                  # return, no need to continue
+                    return None                             # return, no need to continue
                 current_node = current_node.next            # O(1) set current node to the next node
 
     def replace(self, old_item, new_item):
@@ -122,7 +122,7 @@ class LinkedList(object):
         while current_node is not None:                 # O(N) iterate through list
             if current_node.data == old_item:           # O(N) check old data is equal to new item
                 current_node.data = new_item            # O(1) set old item to new item when found
-                return                                  # return, item replaced - do not need to continue
+                return None                             # return, item replaced - do not need to continue
             current_node = current_node.next            # O(1) when no match, move to next node in list
         raise ValueError                                # item was not found, raise an error
 

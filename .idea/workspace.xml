@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e92044ad-fd47-4863-8346-25818903f5a2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slides/Trees.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Class9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/binarytree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/binarytree_test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Class8.md" afterPath="$PROJECT_DIR$/Class8.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReadMe.md" afterPath="$PROJECT_DIR$/ReadMe.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/hashtable.py" afterPath="$PROJECT_DIR$/source/hashtable.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/hashtable_test.py" afterPath="$PROJECT_DIR$/source/hashtable_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/linkedlist.py" afterPath="$PROJECT_DIR$/source/linkedlist.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,6 +45,7 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_in_bases_test_py.coverage" NAME="Unittests in bases_test.py Coverage Results" MODIFIED="1509084553005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_find_all_indexes_with_non_matching_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_find_all_indexes_with_non_matching_patterns Coverage Results" MODIFIED="1509499829880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_size.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_size Coverage Results" MODIFIED="1509685200849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_hashtable_test_HashTableTest.coverage" NAME="Unittests for hashtable_test.HashTableTest Coverage Results" MODIFIED="1510560836793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$linkedlist.coverage" NAME="linkedlist Coverage Results" MODIFIED="1509937465056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_contains_with_matching_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_contains_with_matching_patterns Coverage Results" MODIFIED="1509941200781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$search.coverage" NAME="search Coverage Results" MODIFIED="1509121359404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
@@ -87,7 +95,7 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest.coverage" NAME="Unittests for strings_test.StringsTest Coverage Results" MODIFIED="1509946640525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_get_at_index.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_get_at_index Coverage Results" MODIFIED="1509686056177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_in_stack_test_py.coverage" NAME="Unittests in stack_test.py Coverage Results" MODIFIED="1510206245753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
-    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_hashtable_test_HashTableTest_test_size.coverage" NAME="Unittests for hashtable_test.HashTableTest.test_size Coverage Results" MODIFIED="1510209689588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_hashtable_test_HashTableTest_test_size.coverage" NAME="Unittests for hashtable_test.HashTableTest.test_size Coverage Results" MODIFIED="1510559204019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest_test_front.coverage" NAME="Unittests for queue_test.QueueTest.test_front Coverage Results" MODIFIED="1510114831163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_whitespace.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_whitespace Coverage Results" MODIFIED="1509418179641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_linkedlist_test_LinkedListTest_test_length.coverage" NAME="Unittests for linkedlist_test.LinkedListTest.test_length Coverage Results" MODIFIED="1509684963558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
@@ -101,23 +109,22 @@
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_strings_test_StringsTest_test_contains_with_non_matching_patterns.coverage" NAME="Unittests for strings_test.StringsTest.test_contains_with_non_matching_patterns Coverage Results" MODIFIED="1509493849502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest.coverage" NAME="Unittests for bases_test.BasesEncodeTest Coverage Results" MODIFIED="1509083891346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_queue_test_QueueTest_test_length.coverage" NAME="Unittests for queue_test.QueueTest.test_length Coverage Results" MODIFIED="1510034891575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_hashtable_test_HashTableTest_test_resize.coverage" NAME="Unittests for hashtable_test.HashTableTest.test_resize Coverage Results" MODIFIED="1510560678719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_palindromes_test_TestPalindromes_test_is_palindrome_with_mirrored_strings.coverage" NAME="Unittests for palindromes_test.TestPalindromes.test_is_palindrome_with_mirrored_strings Coverage Results" MODIFIED="1509418107479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_binary.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_binary Coverage Results" MODIFIED="1509079804135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1509069731560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/CS_3_Core_Data_Structures$Unittests_for_bases_test_BasesEncodeTest_test_encode_hexadecimal.coverage" NAME="Unittests for bases_test.BasesEncodeTest.test_encode_hexadecimal Coverage Results" MODIFIED="1509080739258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.57637364">
+    <splitter split-orientation="horizontal" split-proportion="0.5852205">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="linkedlist.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/source/linkedlist.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="367">
-                  <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#2138#2728#0" expanded="false" />
-                  </folding>
+                <state relative-caret-position="791">
+                  <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -125,8 +132,8 @@
           <file leaf-file-name="hashtable.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/hashtable.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="265">
-                  <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+                <state relative-caret-position="176">
+                  <caret line="116" column="84" lean-forward="false" selection-start-line="116" selection-start-column="84" selection-end-line="116" selection-end-column="84" />
                   <folding />
                 </state>
               </provider>
@@ -140,8 +147,8 @@
             <entry file="file://$PROJECT_DIR$/Class7.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="FIRST">
-                  <first_editor relative-caret-position="935">
-                    <caret line="47" column="49" lean-forward="true" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
+                  <first_editor relative-caret-position="799">
+                    <caret line="47" column="49" lean-forward="false" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
                     <folding />
                   </first_editor>
                   <second_editor />
@@ -152,8 +159,8 @@
           <file leaf-file-name="hashtable_test.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/hashtable_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="226">
-                  <caret line="76" column="28" lean-forward="true" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+                <state relative-caret-position="422">
+                  <caret line="134" column="32" lean-forward="false" selection-start-line="134" selection-start-column="32" selection-end-line="134" selection-end-column="32" />
                   <folding />
                 </state>
               </provider>
@@ -166,6 +173,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>size</find>
+      <find>self.size</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -196,11 +204,11 @@
         <option value="$PROJECT_DIR$/source/strings.py" />
         <option value="$PROJECT_DIR$/source/linkedlist_test.py" />
         <option value="$PROJECT_DIR$/teleo/cost_script.py" />
-        <option value="$PROJECT_DIR$/source/linkedlist.py" />
         <option value="$PROJECT_DIR$/source/queue.py" />
         <option value="$PROJECT_DIR$/source/queue_test.py" />
         <option value="$PROJECT_DIR$/source/stack_test.py" />
         <option value="$PROJECT_DIR$/source/stack.py" />
+        <option value="$PROJECT_DIR$/source/linkedlist.py" />
         <option value="$PROJECT_DIR$/source/hashtable_test.py" />
         <option value="$PROJECT_DIR$/source/hashtable.py" />
       </list>
@@ -212,10 +220,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1685" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1680" />
     <option name="y" value="31" />
-    <option name="width" value="2079" />
+    <option name="width" value="1920" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
@@ -235,6 +243,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,7 +261,6 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,7 +292,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for hashtable_test.HashTableTest.test_size">
+  <component name="RunManager" selected="Python tests.Unittests for hashtable_test.HashTableTest">
+    <configuration name="Unittests for hashtable_test.HashTableTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS-3-Core-Data-Structures" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;hashtable_test.HashTableTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
     <configuration name="Unittests for hashtable_test.HashTableTest.test_items" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,21 +321,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;hashtable_test.HashTableTest.test_items&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="Unittests for hashtable_test.HashTableTest.test_keys" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CS-3-Core-Data-Structures" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;hashtable_test.HashTableTest.test_keys&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Unittests for hashtable_test.HashTableTest.test_length" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -330,6 +338,21 @@
       <option name="_new_target" value="&quot;hashtable_test.HashTableTest.test_length&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
+    <configuration name="Unittests for hashtable_test.HashTableTest.test_resize" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS-3-Core-Data-Structures" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;hashtable_test.HashTableTest.test_resize&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
     <configuration name="Unittests for hashtable_test.HashTableTest.test_size" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,21 +366,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;hashtable_test.HashTableTest.test_size&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="Unittests for hashtable_test.HashTableTest.test_values" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CS-3-Core-Data-Structures" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;hashtable_test.HashTableTest.test_values&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Unittests for queue_test.QueueTest" type="tests" factoryName="Unittests" nameIsGenerated="true">
@@ -506,19 +514,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for queue_test.QueueTest" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_keys" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_values" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_items" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_length" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_size" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_items" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_length" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_size" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_resize" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_size" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_length" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_items" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_values" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_keys" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_resize" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_size" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_length" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for hashtable_test.HashTableTest.test_items" />
       </list>
     </recent_temporary>
   </component>
@@ -555,43 +563,45 @@
       <workItem from="1510164080775" duration="423000" />
       <workItem from="1510170291062" duration="3000" />
       <workItem from="1510188627285" duration="10384000" />
+      <workItem from="1510547746346" duration="212000" />
+      <workItem from="1510556621911" duration="4638000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_size - 2017.11.08 at 22h 30m 59s.xml">
-      <configuration name="Unittests for hashtable_test.HashTableTest.test_size" configurationId="tests" />
+    <history-entry file="Unittests_for_hashtable_test_HashTableTest - 2017.11.13 at 00h 11m 35s.xml">
+      <configuration name="Unittests for hashtable_test.HashTableTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_size - 2017.11.08 at 22h 31m 20s.xml">
-      <configuration name="Unittests for hashtable_test.HashTableTest.test_size" configurationId="tests" />
+    <history-entry file="Unittests_for_hashtable_test_HashTableTest - 2017.11.13 at 00h 11m 58s.xml">
+      <configuration name="Unittests for hashtable_test.HashTableTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_size - 2017.11.08 at 22h 31m 39s.xml">
-      <configuration name="Unittests for hashtable_test.HashTableTest.test_size" configurationId="tests" />
+    <history-entry file="Unittests_for_hashtable_test_HashTableTest - 2017.11.13 at 00h 12m 32s.xml">
+      <configuration name="Unittests for hashtable_test.HashTableTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_size - 2017.11.08 at 22h 32m 14s.xml">
-      <configuration name="Unittests for hashtable_test.HashTableTest.test_size" configurationId="tests" />
+    <history-entry file="Unittests_for_hashtable_test_HashTableTest - 2017.11.13 at 00h 13m 04s.xml">
+      <configuration name="Unittests for hashtable_test.HashTableTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_size - 2017.11.08 at 22h 33m 05s.xml">
-      <configuration name="Unittests for hashtable_test.HashTableTest.test_size" configurationId="tests" />
+    <history-entry file="Unittests_for_hashtable_test_HashTableTest - 2017.11.13 at 00h 13m 29s.xml">
+      <configuration name="Unittests for hashtable_test.HashTableTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_size - 2017.11.08 at 22h 34m 48s.xml">
-      <configuration name="Unittests for hashtable_test.HashTableTest.test_size" configurationId="tests" />
+    <history-entry file="Unittests_for_hashtable_test_HashTableTest - 2017.11.13 at 00h 13m 56s.xml">
+      <configuration name="Unittests for hashtable_test.HashTableTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_size - 2017.11.08 at 22h 36m 19s.xml">
-      <configuration name="Unittests for hashtable_test.HashTableTest.test_size" configurationId="tests" />
+    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_resize - 2017.11.13 at 00h 10m 52s.xml">
+      <configuration name="Unittests for hashtable_test.HashTableTest.test_resize" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_size - 2017.11.08 at 22h 37m 16s.xml">
-      <configuration name="Unittests for hashtable_test.HashTableTest.test_size" configurationId="tests" />
+    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_resize - 2017.11.13 at 00h 10m 59s.xml">
+      <configuration name="Unittests for hashtable_test.HashTableTest.test_resize" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_size - 2017.11.08 at 22h 38m 00s.xml">
-      <configuration name="Unittests for hashtable_test.HashTableTest.test_size" configurationId="tests" />
+    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_resize - 2017.11.13 at 00h 11m 05s.xml">
+      <configuration name="Unittests for hashtable_test.HashTableTest.test_resize" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_size - 2017.11.08 at 22h 43m 04s.xml">
-      <configuration name="Unittests for hashtable_test.HashTableTest.test_size" configurationId="tests" />
+    <history-entry file="Unittests_for_hashtable_test_HashTableTest_test_resize - 2017.11.13 at 00h 11m 18s.xml">
+      <configuration name="Unittests for hashtable_test.HashTableTest.test_resize" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151939000" />
+    <option name="totallyTimeSpent" value="156789000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -603,7 +613,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1685" y="31" width="2079" height="1027" extended-state="0" />
+    <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -614,12 +624,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28004292" sideWeight="0.5018747" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2585837" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25779626" sideWeight="0.49812534" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19849785" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19750519" sideWeight="0.49812534" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.106529206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.106496274" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -627,14 +638,13 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31330472" sideWeight="0.49812534" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3128898" sideWeight="0.49812534" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976133" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -652,11 +662,6 @@
           <line>2</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/source/hashtable.py</url>
-          <line>123</line>
-          <option name="timeStamp" value="165" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -665,7 +670,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="168" />
+      <option name="time" value="176" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -995,7 +1000,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="62" column="38" lean-forward="true" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1003,9 +1007,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
-          <folding>
-            <element signature="e#10#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1013,7 +1014,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
           <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1021,15 +1021,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class7.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="935">
-            <caret line="47" column="49" lean-forward="true" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
+          <first_editor relative-caret-position="799">
+            <caret line="47" column="49" lean-forward="false" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1038,26 +1037,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/linkedlist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding>
-            <element signature="e#2138#2728#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/hashtable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        <state relative-caret-position="791">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/hashtable_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="76" column="28" lean-forward="true" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+        <state relative-caret-position="422">
+          <caret line="134" column="32" lean-forward="false" selection-start-line="134" selection-start-column="32" selection-end-line="134" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/hashtable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="116" column="84" lean-forward="false" selection-start-line="116" selection-start-column="84" selection-end-line="116" selection-end-column="84" />
           <folding />
         </state>
       </provider>
